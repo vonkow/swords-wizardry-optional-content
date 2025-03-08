@@ -1,0 +1,43 @@
+{
+  "title": "Swords & Wizardry Optional Content",
+  "description": "",
+  "version": "0.0.1",
+  "id": "swords-wizardry-optional-content",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12.331"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swords-wizardry",
+        "type": "system"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Caz",
+      "email": "caz@vonkow.com"
+    }
+  ],
+  "packs": [
+    {
+      "name": "items",
+      "label": "Swords & Wizardry Book of Options Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "swords-wizardry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "esmodules": [
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
+
