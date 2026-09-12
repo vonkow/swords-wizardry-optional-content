@@ -1,0 +1,104 @@
+folder: koLZmMYFNjA9NWX4
+name: Arcane Parry
+type: feature
+_id: mRq4GMrx3crMwFkB
+img: systems/swords-wizardry/assets/game-icons-net/thunder-blade.svg
+system:
+  description: >-
+    <div class="page" title="Page 15">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Elfblades with an Intelligence score of 14 or better can make what is
+    known as an arcane parry, using their strange blend of swordplay and magic
+    to better defuse the effects of spells targeting them, as shown on the table
+    below. The Elfblade can make an arcane parry at any time, without giving up
+    the ability to attack or cast a spell&nbsp;in the same round. Area of effect
+    spells cannot be parried, but the parry is effective against single-target
+    spells aimed at the Elfblade. They must have a one-handed melee weapon in
+    hand when using this ability.</p>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Intelligence Score</strong></td>
+
+    <td><strong>Saving Throw Bonus</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>14</td>
+
+    <td>+1</td>
+
+    </tr>
+
+    <tr>
+
+    <td>15</td>
+
+    <td>+2</td>
+
+    </tr>
+
+    <tr>
+
+    <td>16</td>
+
+    <td>+3</td>
+
+    </tr>
+
+    <tr>
+
+    <td>17</td>
+
+    <td>+4</td>
+
+    </tr>
+
+    <tr>
+
+    <td>18</td>
+
+    <td>+5</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377591764
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!mRq4GMrx3crMwFkB'

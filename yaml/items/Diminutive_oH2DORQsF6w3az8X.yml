@@ -1,0 +1,70 @@
+folder: CDg9GgtWU2Suuj9w
+name: Diminutive
+type: feature
+_id: oH2DORQsF6w3az8X
+img: systems/swords-wizardry/assets/game-icons-net/bad-gnome.svg
+system:
+  description: >-
+    <p>Any creature of human size or larger that attacks a gnome will do so with
+    a -2 penalty on the to-hit roll.</p>
+
+    <p>Conversely, the gnome&rsquo;s small size causes a -2 penalty on the
+    gnome&rsquo;s to-hit rolls against any creature of human size or larger if
+    the gnome is using a melee weapon.</p>
+
+    <p>Additionally, gnomes cannot use human-sized weapons.</p>
+
+    <ul>
+
+    <li>A dagger may be used as a short sword (inflicting 1d4 points of
+    damage)</li>
+
+    <li>A short sword may be used as a longsword (inflicting 1d4+1 points of
+    damage)</li>
+
+    <li>A long sword may be used as a two-handed sword (inflicting 1d6 points of
+    damage)</li>
+
+    <li>Gnomes cannot use longbows or human-sized crossbows, but can use a
+    shortbow as per normal. A sized-down crossbow costs double normal.
+    &ldquo;Heavy&rdquo; sized-down crossbows inflict normal heavy-crossbow
+    damage of 1d6+1 points, but &ldquo;light&rdquo; sized-down crossbows inflict
+    1d4. Light crossbows are &ldquo;pulled,&rdquo; so the length matters to
+    damage, but heavy crossbows are cranked, and inflict essentially the same
+    damage as a human- sized one.</li>
+
+    <li>All standard one-handed weapons can be made in gnomish size, but inflict
+    1d4 damage regardless of the damage of a standard sized weapon. All
+    two-handed weapons can be similarly resized, but inflict only 1d6 points of
+    damage.</li>
+
+    <li>Magical versions of gnomish-sized weaponry and armor are very scarce
+    indeed, although they do exist.</li>
+
+    </ul>
+
+    <p>Gnomish-sized weapons require fewer materials, but finer craftsmanship,
+    so they cost the same as their standard counterparts. In a pinch, a gnome
+    could try to use human-sized weaponry, but would be at -2 to hit (in
+    addition to any size-related penalty) and at -2 to damage.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377281127
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!oH2DORQsF6w3az8X'

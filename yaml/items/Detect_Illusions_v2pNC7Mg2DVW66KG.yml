@@ -1,0 +1,46 @@
+folder: DlFVXIGOavcPvho0
+name: Detect Illusions
+type: spell
+_id: v2pNC7Mg2DVW66KG
+img: systems/swords-wizardry/assets/game-icons-net/radar-cross-section.svg
+system:
+  description: >-
+    <div class="page" title="Page 38">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Whenever the caster of this spell comes within 60 feet of an illusion,
+    they immediately recognize it as such. This recognition does not dispel the
+    illusion.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 60 ft.
+  duration: 3 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723658901945
+  modifiedTime: 1723658952121
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!v2pNC7Mg2DVW66KG'

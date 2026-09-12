@@ -1,0 +1,42 @@
+folder: IgLrhqTEQcQcG1jj
+name: Quasi-Shadow Monsters
+type: spell
+_id: 2rY7p4MZz9DHvYmf
+img: systems/swords-wizardry/assets/game-icons-net/two-shadows.svg
+system:
+  description: >-
+    <p>When this spell is cast the Illusionist appears to summon a monster or
+    group of monsters whose hit dice total no more than twice the Illusionist’s
+    level. These are not truly summoned monsters, but instead semi-tangible
+    illusionary creations that appear identical to the monsters the Illusionist
+    appears to summon. Because of the nature of their creation, these
+    quasi-shadow monsters have three-quarters of the hit points they otherwise
+    would based on their hit dice, always inflict only 1d6 damage regardless of
+    their physical attacks, and can use none of their special abilities. So, a
+    Quasi-Shadow Medusa could not use its gaze attack, but a Quasi-Shadow Dragon
+    could fly or use its breath weapon - though all such attacks would only
+    inflict the damage listed above. Finally, all Quasi-Shadow Monsters have an
+    Armor Class of 7 [12].</p><p class="p1">Unlike a <em>Summon Monster</em>
+    spell, Quasi-Shadow Monsters appear as soon as the spell is cast. If a
+    person viewing the Quasi-Shadow Monster believes it to be real, they suffer
+    the monster’s normally listed damage from physical attacks.</p>
+  spellLevel: '6'
+  range: N/A
+  duration: 6 rounds (minutes)
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432742853
+  modifiedTime: 1775448818094
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!2rY7p4MZz9DHvYmf'

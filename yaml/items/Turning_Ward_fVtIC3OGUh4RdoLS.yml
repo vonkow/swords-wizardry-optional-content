@@ -1,0 +1,29 @@
+folder: r0plGLSWtlRbxB6H
+name: Turning Ward
+type: spell
+_id: fVtIC3OGUh4RdoLS
+img: systems/swords-wizardry/assets/game-icons-net/happy-skull.svg
+system:
+  description: >-
+    <p>For the duration of this spell any undead creature within 30 feet of the
+    caster is immune to the effects of Banish Undead or similar abilities.</p>
+  spellLevel: '3'
+  range: 30 ft.
+  duration: 2 rounds per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433473389
+  modifiedTime: 1775449886611
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!fVtIC3OGUh4RdoLS'

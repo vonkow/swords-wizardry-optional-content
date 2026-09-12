@@ -1,0 +1,49 @@
+folder: zu57qy8kotpKFTtO
+name: Haven
+type: spell
+_id: EiTocPe6fMcijjze
+img: systems/swords-wizardry/assets/game-icons-net/temple-door.svg
+system:
+  description: >-
+    <p>When this spell is cast the Warlock and one additional willing target
+    within range vanish into a pocket dimension where they rest, recover, and
+    resupply. This pocket dimension is fifty cubic feet and supplied with ample
+    food and drink to sustain all who arrive for the spell’s duration. While it
+    is largely safe and the Warlock and their allies are unlikely to be
+    discovered, the referee can rule that using an <em>Astral Spell </em>might
+    allow them to be located or that particularly powerful extraplanar creatures
+    (such as angels or baalroch demons) can locate the party with 1d6 hours of
+    searching the planes. In addition to providing a transplanar retrieve, there
+    is also an additional effect based on the Warlock’s alignment. When this
+    spell ends, the Warlock and all targets return to the same location on the
+    mortal plane from which they departed unless otherwise noted.</p><ul><li><p
+    class="p2"><em>Chaos: </em>Those who rest in the <em>Haven</em> of a Chaotic
+    Warlock return to the mortal realm vigilant and ready for battle. For the
+    next 24 hours a +1 on all attack rolls and are only surprised on a 1 in
+    1d6.</p></li><li><p class="p2"><em>Law:</em> For each day a character rests
+    in the <em>Haven</em> of a Lawful Warlock they can make a saving throw to
+    overcome the effects of a curse, disease, or poison currently afflicting
+    them (if any).</p></li><li><p class="p2"><em>Neutrality</em>: When a Neutral
+    Warlock and their allies exit the <em>Haven</em> they can choose to appear
+    up to one mile away from their original location per level of the Neutral
+    Warlock.</p></li></ul>
+  spellLevel: '4'
+  range: 30 ft.
+  duration: 24 hours per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568578718
+  modifiedTime: 1741573257115
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!EiTocPe6fMcijjze'

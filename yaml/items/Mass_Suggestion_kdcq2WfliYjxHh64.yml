@@ -1,0 +1,34 @@
+folder: IgLrhqTEQcQcG1jj
+name: Mass Suggestion
+type: spell
+_id: kdcq2WfliYjxHh64
+img: systems/swords-wizardry/assets/game-icons-net/teacher.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the <em>Suggestion </em>spell found on
+    page 69 of <em>Swords & Wizardry Complete, Revised, </em>except that the
+    Illusionist can target 1d8 creatures within the spell’s range.
+    Alternatively, the Illusionist can single out one target when casting
+    <em>Mass Suggestion</em> to impose a -4 penalty on a single-target casting
+    of this spell.</p>
+  spellLevel: '6'
+  range: Shouting distance
+  duration: 1 week
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775432614675
+  modifiedTime: 1789239202656
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!kdcq2WfliYjxHh64'

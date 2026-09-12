@@ -1,0 +1,48 @@
+folder: PG8Oy96UyWUXajPM
+name: Contract
+type: spell
+_id: ZG2EvzS3BaqgwuF8
+img: systems/swords-wizardry/assets/game-icons-net/scroll-quill.svg
+system:
+  description: >-
+    <p>This spell takes one full hour to cast and may require special or rare
+    components at the referee’s discretion. The caster creates a complex
+    summoning circle and calls forth a powerful extraplanar being as detailed
+    below who agrees to return the Warlock (or one willing target present at the
+    time of casting) to life, should they be slain. When the agreement is
+    reached, the mortal who has contracted with the extraplanar entity
+    permanently loses 1d4 points of Constitution. The creature is not
+    necessarily returned to life exactly as they were. It is possible for the
+    target to be returned to life with a different ancestry , class or both! The
+    target’s alignment and ability scores remain the same and their current
+    Experience Point total is used to determine their current level. Roll a d20
+    on the table below to determine the target’s new class. If the target’s
+    original ancestry is appropriate to that class, then it remains. If not,
+    then the referee then randomly determines a new ancestry based on what is
+    permitted by that class.</p><p><span class="s1"><strong>CONTRACT CLASS
+    TABLE</strong></span></p><p></p><table><tbody><tr><td><p><strong>d20</strong></p></td><td><p><strong>Target
+    is Chaotic</strong></p></td><td><p><strong>Target is
+    Lawful</strong></p></td><td><p><strong>Target is
+    Neutral</strong></p></td></tr><tr><td><p>1</p></td><td><p>Assassin</p></td><td><p>Bard</p></td><td><p>Elfblade</p></td></tr><tr><td><p>2</p></td><td><p>Barbarian</p></td><td><p>Dwarven
+    Priest</p></td><td><p>Barbarian</p></td></tr><tr><td><p>3</p></td><td><p>Wrath-chanter</p></td><td><p>Cleric</p></td><td><p>Bard</p></td></tr><tr><td><p>4</p></td><td><p>Cleric</p></td><td><p>Fighter</p></td><td><p>Wrath-chanter</p></td></tr><tr><td><p>5</p></td><td><p>Fighter</p></td><td><p>Cleric</p></td><td><p>Druid</p></td></tr><tr><td><p>6</p></td><td><p>Illusionist</p></td><td><p>Chivalric
+    Knight</p></td><td><p>Illusionist</p></td></tr><tr><td><p>7</p></td><td><p>Magic-User</p></td><td><p>Monk</p></td><td><p>Magic-User</p></td></tr><tr><td><p>8</p></td><td><p>Necromancer</p></td><td><p>Magic-User</p></td><td><p>Necromancer</p></td></tr><tr><td><p>9</p></td><td><p>Thief</p></td><td><p>Paladin</p></td><td><p>Thief</p></td></tr><tr><td><p>10</p></td><td><p>Troubadour</p></td><td><p>Ranger</p></td><td><p>Troubadour</p></td></tr><tr><td><p>11-20</p></td><td><p>Warlock</p></td><td><p>Warlock</p></td><td><p>Warlock</p></td></tr></tbody></table>
+  spellLevel: '5'
+  range: Special
+  duration: Special
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741571980867
+  modifiedTime: 1741572300061
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!ZG2EvzS3BaqgwuF8'

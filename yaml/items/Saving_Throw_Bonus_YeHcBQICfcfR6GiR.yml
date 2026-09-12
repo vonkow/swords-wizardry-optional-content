@@ -1,0 +1,31 @@
+folder: xqBkrcWr1JwvJq3N
+name: Saving Throw Bonus
+type: feature
+_id: YeHcBQICfcfR6GiR
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <p>Warlocks receive a +2 bonus to all saving throws made to resist spells
+    and spell-like effects, including when those effects originate from a
+    magical item.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377712851
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!YeHcBQICfcfR6GiR'

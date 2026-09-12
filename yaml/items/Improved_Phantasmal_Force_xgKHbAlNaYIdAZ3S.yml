@@ -1,0 +1,32 @@
+folder: vU45tlBKSM7aeUlh
+name: Improved Phantasmal Force
+type: spell
+_id: xgKHbAlNaYIdAZ3S
+img: systems/swords-wizardry/assets/game-icons-net/magick-trick.svg
+system:
+  description: >-
+    <p>This spell functions exactly like <em>Phantasmal Force</em> (see
+    <em>Swords & Wizardry Complete, Revised, </em>pg. 65), except the illusion
+    continues to remain present for three turns (30 minutes) after the caster
+    ceases concentrating - though it still disappears when touched.</p>
+  spellLevel: '2'
+  range: 240 ft.
+  duration: Three turns (30 minutes) after the caster stops concentrating
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775429630676
+  modifiedTime: 1789239458261
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!xgKHbAlNaYIdAZ3S'

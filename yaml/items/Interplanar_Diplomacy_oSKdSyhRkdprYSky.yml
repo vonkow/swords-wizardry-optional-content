@@ -1,0 +1,33 @@
+folder: EHwOyfl5we5NCwHO
+name: Interplanar Diplomacy
+type: spell
+_id: oSKdSyhRkdprYSky
+img: systems/swords-wizardry/assets/game-icons-net/shaking-hands.svg
+system:
+  description: >-
+    <p>For the duration of this spell, the Referee adds +2 to all rolls to
+    determine if a monster is hostile when the Warlock first encounters them
+    (see <em>Swords & Wizardry Complete, Revised </em>pg. 35) if that monster is
+    of the same alignment as the Warlock. Unfortunately, the Warlock suffers a
+    -2 penalty to this roll if the monster is of the opposite alignment as the
+    Warlock.</p>
+  spellLevel: '2'
+  range: Caster
+  duration: 24 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568408946
+  modifiedTime: 1741576043726
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!oSKdSyhRkdprYSky'

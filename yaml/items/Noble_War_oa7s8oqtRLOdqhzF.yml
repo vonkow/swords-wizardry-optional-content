@@ -1,0 +1,49 @@
+folder: QA8alBTGHPhsmNsn
+name: Noble War
+type: feature
+_id: oa7s8oqtRLOdqhzF
+img: systems/swords-wizardry/assets/game-icons-net/knight-banner.svg
+system:
+  description: >-
+    <div class="page" title="Page 10">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Chivalric Knights view combat the ultimate expression of honor. They view
+    the use of ranged weapons (including thrown weapons) as dishonorable and
+    will only engage in melee combat. In addition, they will always wear plate
+    armor, whether magical or mundane, over any other type of armor - even if
+    these &ldquo;lesser&rdquo; armor types offer more protection.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377491429
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!oa7s8oqtRLOdqhzF'

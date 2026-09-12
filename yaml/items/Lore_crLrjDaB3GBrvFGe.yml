@@ -1,0 +1,253 @@
+folder: kY7FzuSIT2X9iZBD
+name: Lore
+type: feature
+_id: crLrjDaB3GBrvFGe
+img: systems/swords-wizardry/assets/game-icons-net/book-cover.svg
+system:
+  description: >-
+    <div class="page" title="Page 8">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Bards have received a masterful education in ancient legends, forgotten
+    lore, and myths that have been obscured by history. This is reflected in
+    their Lore ability. In addition to being able to use this ability to
+    decipher unknown languages, secret cyphers, and dead languages, a Bard can
+    also use the Lore ability to recall the history surrounding an item or place
+    that they can personally investigate or study in depth. Whenever a Bard has
+    at least one turn to examine and personally handle a magical item, a
+    successful use of the Lore ability will allow them to recall any legends or
+    historically significant facts regarding that item or place. It is important
+    to note that this does not necessarily identify the specific properties of a
+    magic item, but may provide hints as to those properties.</p>
+
+    <p>For example, a Bard who has successfully used the Lore ability while
+    examining a tattered black flag found in an abandoned castle may be able to
+    identify it as the banner of the Blackscale line of nobles who held their
+    seat of power in Ebonfog Castle. They would not, however, be able to
+    discover that it also functions as a Cloak of Protection+1.</p>
+
+    <p>This ability can also be used to recall the general history of some lo-
+    cations. Particularly obscure areas of knowledge or all-but-forgotten pieces
+    of history impose a penalty on this Lore check that can range from -5% (for
+    slightly obscure information) to -75% or higher (for tales no mortal was
+    ever meant to know). Some Referees may choose&nbsp;to make a Bard&rsquo;s
+    Lore check in secret and if the die roll fails, could provide the Bard with
+    false or misleading information.</p>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Lore</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>10%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>20%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>30%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>40%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>50%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>60%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>70%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>80%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>90%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>100%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>110%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>120%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13</td>
+
+    <td>130%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>14</td>
+
+    <td>140%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>15</td>
+
+    <td>150%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>16</td>
+
+    <td>160%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>17</td>
+
+    <td>170%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>18</td>
+
+    <td>180%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>19</td>
+
+    <td>190%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>20</td>
+
+    <td>200%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>21+</td>
+
+    <td>+10%/level</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d100
+  target: '10'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377436151
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!crLrjDaB3GBrvFGe'

@@ -1,0 +1,48 @@
+folder: KRngi8Sey0NZAGCR
+name: Read Languages
+type: spell
+_id: eo2oxcwNLD9x0Lmp
+img: systems/swords-wizardry/assets/game-icons-net/read.svg
+system:
+  description: >-
+    <div class="page" title="Page 34">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell allows the caster to decipher directions, instructions, and
+    formulae in languages unknown to the caster. This can be particularly useful
+    for treasure maps, but it does not solve any codes. The spell is identical
+    to the Magic-User spell of the same name, and a Magic-User&rsquo;s record of
+    the spell can be copied into a Demon Hunter&rsquo;s spellbook.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: Normal reading distance
+  duration: One or two readings
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723575482361
+  modifiedTime: 1723575537847
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!eo2oxcwNLD9x0Lmp'

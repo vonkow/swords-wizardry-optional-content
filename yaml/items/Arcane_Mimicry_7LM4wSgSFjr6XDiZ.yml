@@ -1,0 +1,30 @@
+folder: mB5eVVkSERKLd3k5
+name: Arcane Mimicry
+type: spell
+_id: 7LM4wSgSFjr6XDiZ
+img: systems/swords-wizardry/assets/game-icons-net/bolt-spell-cast.svg
+system:
+  description: >-
+    <p>When the Illusionist casts this spell they can mimic the effects of any
+    2nd Level Magic-User spell of their choice. They can declare which spell
+    they are mimicking at the time of casting.</p>
+  spellLevel: '5'
+  range: Special
+  duration: Special
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432112720
+  modifiedTime: 1775448972892
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!7LM4wSgSFjr6XDiZ'

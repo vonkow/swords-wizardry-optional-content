@@ -1,0 +1,49 @@
+folder: DlFVXIGOavcPvho0
+name: Color Spray
+type: spell
+_id: kbPOYuIzHx0dKBjw
+img: systems/swords-wizardry/assets/game-icons-net/rainbow-star.svg
+system:
+  description: >-
+    <div class="page" title="Page 37">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell sends out a wave of scintillating colors that dazzles and
+    overwhelms several targets. Color Spray affects a total number of hit dice
+    or levels equal to 1d6 + the Illusionist&rsquo;s level, to a total maximum
+    of 6 hit dice or levels of targets. The caster names the targets affected
+    within the spell&rsquo;s time of casting. All levels or hit dice must be
+    spent. Victims of the spell fall unconscious, overwhelmed by the dazzling
+    array of colors. If the caster is only able to assign a partial effect of
+    this spell to a target, such as having 2 hit dice or levels remaining to
+    affect a target but only having a 4 HD creature left to target, the final
+    victim makes a saving throw to resist this spell&rsquo;s effect.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 240 ft.
+  duration: Instant
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723658682984
+  modifiedTime: 1723658736654
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!kbPOYuIzHx0dKBjw'

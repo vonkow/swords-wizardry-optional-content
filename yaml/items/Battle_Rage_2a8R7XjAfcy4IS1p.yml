@@ -1,0 +1,81 @@
+folder: ZjvpQxSH8Lu4GqMK
+name: Battle Rage
+type: feature
+_id: 2a8R7XjAfcy4IS1p
+img: systems/swords-wizardry/assets/game-icons-net/enrage.svg
+system:
+  description: >-
+    <p>Wrath-chanters are feared and renowned for their ability to enter a
+    battle lust so terrible and formidable that their mere presence on the
+    battlefield can be enough to make an opponent turn tail and run. At the
+    beginning of each combat round, before a Wrath-chanter takes their action,
+    they make a percentage roll as noted on the Wrath-chanter Advancement Table
+    to determine if they are able to summon their battle spirit and enter this
+    state of rage.</p>
+
+    <p>If a Wrath-chanter has not yet entered their rage, they can spend an
+    entire combat round doing nothing but psyching themselves up into a fervor.
+    This increases their chances of entering a battle rage on the next round by
+    +15%. While enraged the Wrath-chanter must make a melee attack. If there is
+    an enemy in sight, though they can move towards their enemy at the fastest
+    speed possible in order to get close enough to make a melee attack. If no
+    enemies are present, the Wrath-chanter will attack the nearest target -
+    whether friend, foe, or stranger.</p>
+
+    <p>Once a Wrath-chanter has successfully entered a rage, they gain the
+    following benefits:</p>
+
+    <ul>
+
+    <li>The Wrath-chanter receives a +1 to all attack rolls and melee damage
+    rolls. This bonus increases to +2 at 4th level and again to +3 at 8th
+    level.</li>
+
+    <li>The Wrath-chanter receives a +4 bonus on all saving throws made to
+    resist negative energy and leveling-draining effects.</li>
+
+    <li>The Wrath-chanter&rsquo;s melee attacks are considered to be magical for
+    purposes of injuring creatures that can only be damaged by magical
+    weapons.</li>
+
+    <li>They are immune to all <em>Charm</em>, sleep, or mind-affecting spells,
+    except for <em>Emotion</em>, which can be used to instantly calm them and
+    remove the Wrath-chanter&rsquo;s state of rage.</li>
+
+    <li>If reduced to 0 hit points, the Wrath-chanter continues to fight for a
+    number of rounds equal to one-half their level (minimum 1 round), then
+    immediately drops dead.</li>
+
+    </ul>
+
+    <p>The Wrath-chanter remains enraged for a number of rounds equal to their
+    level. If they wish to end their state of rage prematurely, they must make a
+    successful saving throw. If this saving throw fails, they remain enraged but
+    can attempt to end the rage again on the next round. After the rage ends,
+    the Wrath-chanter is exhausted for a number of rounds equal to the length of
+    the rage. They can only move at one-half their normal movement and suffer a
+    -2 penalty to all attack rolls and saving throws during this time. They
+    cannot attempt to enter a rage while exhausted.</p>
+
+    <p>&nbsp;</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377722566
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!2a8R7XjAfcy4IS1p'

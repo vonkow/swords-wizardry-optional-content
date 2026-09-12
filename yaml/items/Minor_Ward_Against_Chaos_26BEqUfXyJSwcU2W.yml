@@ -1,0 +1,32 @@
+folder: VoaAT4iglPuwP46U
+name: Minor Ward Against Chaos
+type: spell
+_id: 26BEqUfXyJSwcU2W
+img: systems/swords-wizardry/assets/game-icons-net/radial-balance.svg
+system:
+  description: >-
+    <p>This spell operates like the reverse of the spell bless. In the area of
+    effect, 2d6 targets receive a -1 penalty to attack rolls (and reduces their
+    morale by 1 point). Unlike the bless spell, a minor ward can be cast on
+    creatures who are already in combat. The spell does not affect creatures of
+    Lawful alignment.</p>
+  spellLevel: '2'
+  range: 30ft, affecting an area 20ft in radius
+  duration: 1 hour (6 turns)
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741504157657
+  modifiedTime: 1741565013914
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!26BEqUfXyJSwcU2W'

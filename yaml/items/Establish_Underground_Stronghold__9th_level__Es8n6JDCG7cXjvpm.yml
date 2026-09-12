@@ -1,0 +1,47 @@
+folder: lgqfrwuM3q3y2HKX
+name: Establish Underground Stronghold (9th level)
+type: feature
+_id: Es8n6JDCG7cXjvpm
+img: systems/swords-wizardry/assets/game-icons-net/dwarf-helmet.svg
+system:
+  description: >-
+    <div class="page" title="Page 13">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When the Dwarven Priest reaches 9th level they can establish a stronghold
+    in a vast cavern or underground location. This must include a fortified
+    temple. Once established, dwarves will come from the surrounding area and
+    establish a community within the stronghold under the Dwarven Priest&rsquo;s
+    leadership, who can take the title of &ldquo;Thain.&rdquo; This community
+    will include armorers, blacksmiths, siege or construction engineers,
+    men-at-arms, and ordinary citizens who are all dwarves.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377559310
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!Es8n6JDCG7cXjvpm'

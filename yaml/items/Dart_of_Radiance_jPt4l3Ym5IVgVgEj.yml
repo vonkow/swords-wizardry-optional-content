@@ -1,0 +1,52 @@
+folder: KRngi8Sey0NZAGCR
+name: Dart of Radiance
+type: spell
+_id: jPt4l3Ym5IVgVgEj
+img: systems/swords-wizardry/assets/game-icons-net/fast-arrow.svg
+system:
+  description: >-
+    <div class="page" title="Page 33">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>A magical missile flies where the caster directs, with a range of 150
+    feet, and unerringly hits the target if it is of Neutral or Chaotic
+    alignment. Against living creatures of Neutral alignment, the missile only
+    inflicts 1 hit point of damage. Against the undead or creatures of Chaotic
+    alignment, the missile inflicts 1d4+1 hit points, the same as a magic
+    missile spell. Also like a magic missile spell, Dart of Radiance improves
+    with the level of the caster. The Demon Hunter casts an additional two darts
+    for every 5 levels of experience. Thus, at 5th level, the caster is able to
+    hurl 3 darts of radiance, and 5 darts at 10th level.</p>
+
+    <p>This spell can only be copied from a Demon Hunter&rsquo;s spellbook or
+    scroll; despite the similarity of the <em>magic missile</em> spell, it
+    cannot be copied as <em>dart of radiance</em>.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 150 feet
+  duration: Immediate
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723575002307
+  modifiedTime: 1723575123082
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!jPt4l3Ym5IVgVgEj'

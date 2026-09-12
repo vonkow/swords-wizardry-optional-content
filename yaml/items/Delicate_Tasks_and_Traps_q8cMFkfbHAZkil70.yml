@@ -1,0 +1,162 @@
+folder: I1IR7yZSPaBi9PEc
+name: Delicate Tasks and Traps
+type: feature
+_id: q8cMFkfbHAZkil70
+img: systems/swords-wizardry/assets/game-icons-net/snatch.svg
+system:
+  description: >-
+    <p><strong>Delicate Tasks:&nbsp;</strong>This percentage chance is used for
+    disabling small mechanical traps, picking pockets, or performing acts of
+    sleight of hand (such as making a coin &ldquo;vanish&rdquo; with a wave of
+    your hand, and slip it up the Troubadour&rsquo;s sleeve). It is also used to
+    detect the mechanisms that activate a trap or notice when feats of sleight
+    of hand are being performed.</p>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Delicate Tasks and Traps</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>10%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>15%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>20%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>25%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>30%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>35%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>40%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>45%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>50%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>60%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>70%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>80%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13+</td>
+
+    <td>Remains at 80%</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    <p><em>Note:</em> Troubadours are proficient thieves and often use skills
+    like climb walls or delicate tasks and traps to aid them in their
+    performances through acts of uncanny physical prowess or prestidigitation.
+    These skills do not benefit from a high Dexterity score. If a Troubadour is
+    wearing ring mail or heavier armor while attempting to use any of their
+    thieving skills (except Hear Sounds), they suffer a -35% penalty to the
+    attempt and if they are making use of a shield they suffer a -15% penalty.
+    These penalties are cumulative.</p>
+  formula: d100
+  target: '10'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723661289127
+  modifiedTime: 1723661388396
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!q8cMFkfbHAZkil70'

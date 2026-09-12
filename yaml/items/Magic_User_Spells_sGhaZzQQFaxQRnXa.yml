@@ -1,0 +1,20 @@
+type: Item
+folder: Qtfm0QJRwqhmA1yR
+name: Magic-User Spells
+color: null
+sorting: a
+_id: sGhaZzQQFaxQRnXa
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429040004
+  modifiedTime: 1775429040004
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!sGhaZzQQFaxQRnXa'

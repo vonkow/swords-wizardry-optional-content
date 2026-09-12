@@ -1,0 +1,59 @@
+folder: fwgVmUV2JC9JRRLd
+name: Detect Aspect
+type: spell
+_id: K2TyUy9rQVxhXqla
+img: systems/swords-wizardry/assets/game-icons-net/radar-cross-section.svg
+system:
+  description: >-
+    <div class="page" title="Page 48">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When this spell is cast, the Warlock can detect the presence of magical
+    items or individuals under the influence of a magical spell or effect within
+    the spell&rsquo;s range.</p>
+
+    <ul>
+
+    <li><em>Chaos:</em> Chaotic Warlocks also detect the presence of Lawful
+    creatures.</li>
+
+    <li><em>Law:</em> Lawful Warlocks also detect the presence of Chaotic
+    creatures.</li>
+
+    <li><em>Neutrality:</em> Neutral Warlocks also detect the presence of
+    invisible creatures or items.</li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 30 ft.
+  duration: 1 minute per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660383352
+  modifiedTime: 1723660722987
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!K2TyUy9rQVxhXqla'

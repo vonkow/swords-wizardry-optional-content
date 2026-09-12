@@ -1,0 +1,32 @@
+folder: CL4Gaq2WXKLwhK86
+name: Cure Medium Wounds
+type: spell
+_id: h7i3Y45oaaQIF8eu
+img: systems/swords-wizardry/assets/game-icons-net/health-normal.svg
+system:
+  description: >-
+    <p>Cures 1d6+4 hit points of damage. This spell does <em>not </em>have a
+    reversed version for Chaotically-aligned Clerics, and does not have a
+    Druidic version.</p>
+  spellLevel: '3'
+  range: Touch
+  duration: Immediate
+  formula: 1d6+4
+  effectType: healing
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775428754385
+  modifiedTime: 1789239757017
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!h7i3Y45oaaQIF8eu'

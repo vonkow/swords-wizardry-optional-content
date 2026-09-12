@@ -1,0 +1,34 @@
+folder: rDFrgAjWi1dkrqr1
+name: Alter Reality
+type: spell
+_id: 0t33QBueXO3Lm3RC
+img: systems/swords-wizardry/assets/game-icons-net/abstract-006.svg
+system:
+  description: >-
+    <p>This spell must be cast in conjunction with an active illusion spell that
+    was cast by the one casting this spell. The previously cast illusion becomes
+    real and permanent. Illusions brought to life function independently of the
+    caster. Referees should feel free to mitigate abuses of this spell. For
+    example, if the Illusionist uses this spell to make a mound of a million
+    gold pieces permanent, close examination reveals it to be a worthless
+    collection of pyrite counterfeits.</p>
+  spellLevel: '7'
+  range: One active illusion created by the caster
+  duration: Permanent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432841683
+  modifiedTime: 1775449327468
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!0t33QBueXO3Lm3RC'

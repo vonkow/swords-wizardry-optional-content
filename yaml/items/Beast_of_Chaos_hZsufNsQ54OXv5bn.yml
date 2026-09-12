@@ -1,0 +1,45 @@
+folder: d77aCArOaR1Yq6oA
+name: Beast of Chaos
+type: spell
+_id: hZsufNsQ54OXv5bn
+img: systems/swords-wizardry/assets/game-icons-net/floating-tentacles.svg
+system:
+  description: >-
+    <p>The Magic-user’s body expands and changes, becoming a formless glob of
+    primordial matter with five tentacles, a single and transparent eye, and a
+    gaping, fanged mouth. The brain and intelligence remain, housed in a bizarre
+    organ at the center of the horrid shape. In this form, the caster has five
+    attacks, none of which inflict damage – but on a successful hit they can
+    grab a creature the size of an ogre and lift it to the horrid mouth. The
+    Magic-user can devour one creature per round, inflicting 2d8 points of
+    damage with the fangs and then digesting creatures for 1d4 hit points of
+    damage per round. There is no limit to the number of creatures the caster
+    can swallow, for the body of the Beast of Chaos expands to fit its contents.
+    At the end of the spell, the Magic-user returns to normal shape, size, and
+    form. If the caster swallowed creatures while possessed by the material of
+    chaos, they will lie involuntarily in a digestive torpor for 1 turn (10
+    minutes) per creature swallowed. There is a 10% chance of going insane after
+    being transformed into a creature of chaos. If this spell is cast by a
+    Magic-user of Lawful alignment, there is a 1% chance that the gods of Law
+    take notice, and visit some sort of retribution on the caster — probably a
+    <em>quest</em> or <em>geas</em> of some kind.</p>
+  spellLevel: '4'
+  range: Caster
+  duration: 30 minutes
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429075192
+  modifiedTime: 1775446376256
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!hZsufNsQ54OXv5bn'

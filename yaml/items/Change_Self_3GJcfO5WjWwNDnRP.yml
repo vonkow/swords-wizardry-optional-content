@@ -1,0 +1,38 @@
+folder: DlFVXIGOavcPvho0
+name: Change Self
+type: spell
+_id: 3GJcfO5WjWwNDnRP
+img: systems/swords-wizardry/assets/game-icons-net/transform.svg
+system:
+  description: >-
+    <div title="Page 37" class="page"><div class="layoutArea"><div
+    class="column"><p>The caster is masked by an illusion that allows them to
+    appear as a humanoid up to one foot taller or one foot shorter than their
+    actual self. The caster can also reduce or increase their apparent weight by
+    50%. They can also alter their physical features as they see fit, such as
+    eye color, hair color, hair length and style, and other distinguishing
+    physical features. This includes their wardrobe. These illusionary effects
+    are purely visual, affecting no other senses, and provide no physical
+    benefits. Those who suspect there to be the presence of an illusion may make
+    a saving throw to notice the effect, but otherwise the caster remains
+    disguised.</p></div></div></div>
+  spellLevel: '1'
+  range: Caster only.
+  duration: Caster Level + 10 + 1d6 rounds
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1723658454090
+  modifiedTime: 1789239545093
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!3GJcfO5WjWwNDnRP'

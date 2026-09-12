@@ -1,0 +1,52 @@
+folder: HVB8i8LZsVubbvJN
+name: Scent Demon
+type: feature
+_id: elKHtVyFUjfQ94Fg
+img: systems/swords-wizardry/assets/game-icons-net/nose-side.svg
+system:
+  description: >-
+    <div class="page" title="Page 11">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>At third level, a Demon Hunter can smell when a demon is within 100ft,
+    and can also track the smell. The base chance for tracking is 10% per level,
+    modified downward by 5% for each hour since the demon left the area. Thus, a
+    level 11 Demon Hunter has a base chance of 110% to track a demon, but if the
+    trail is 5 hours old, the chance is modified to 85% (five hours times five
+    percent, subtracted from 110). If the demon is able to move significantly
+    faster than the Demon Hunter, it will eventually be able to shake the
+    pursuit. As an example, a Demon Hunter lower than fifth level (not having
+    the Observation ability yet) can find by smell that a polymorphed demon is
+    definitely in a market square (within 100ft) but remain unable to tell which
+    person in the square is actually the polymorphed demon. If there is only one
+    person in the square, of course, then it is presumably the demon.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d100
+  target: '10'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377538441
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!elKHtVyFUjfQ94Fg'

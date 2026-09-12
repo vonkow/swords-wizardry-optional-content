@@ -1,0 +1,32 @@
+folder: Ii5zf09WikSUSt5O
+name: Improved Invisibility
+type: spell
+_id: 5m3psyEOCOPmawpU
+img: systems/swords-wizardry/assets/game-icons-net/invisible.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the <em>Invisibility </em>spell found
+    on page 61 of <em>Swords & Wizardry Complete, Revised, </em>except that the
+    target of this spell remains invisible for the spell’s duration - even if
+    they perform actions that would normally end their invisibility (such as
+    attacking or casting a spell).</p>
+  spellLevel: '4'
+  range: 240 ft.
+  duration: 4 rounds + 1 round per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775431779727
+  modifiedTime: 1775448480983
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!5m3psyEOCOPmawpU'

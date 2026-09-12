@@ -1,0 +1,60 @@
+folder: fwgVmUV2JC9JRRLd
+name: Warded Portal
+type: spell
+_id: X23aAHVFMXcsulLZ
+img: systems/swords-wizardry/assets/game-icons-net/door-watcher.svg
+system:
+  description: >-
+    <div class="page" title="Page 49">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When the Warlock activates this spell, they mark one door or other portal
+    (such as a chest hatch or closed window) with a small ward that may be
+    noticed if someone examining it successfully searches for secret doors. The
+    next person to walk break the threshold of the door or portal (other than
+    the Warlock) activates the ward, with the effect defined below, though a
+    saving throw can be made to avoid these effects.</p>
+
+    <ul>
+
+    <li><em>Chaos: </em>Target suffers pain and twisting in their muscles,
+    reducing their Movement by one-half and armor class by +2 [-2] for 1d6+1
+    rounds</li>
+
+    <li><em>Law:</em> Target is thrown back 30 feet by an invisible force, but
+    suffers no damage.</li>
+
+    <li><em>Neutrality: </em>Target suffers no apparent effect, but the caster
+    knows the ward has been broken and immediately gets a men- tal image of the
+    scene of the ward being broken.</li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: One door, portal, or hatch
+  duration: Until activated or dispelled
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660941918
+  modifiedTime: 1723661038458
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!X23aAHVFMXcsulLZ'

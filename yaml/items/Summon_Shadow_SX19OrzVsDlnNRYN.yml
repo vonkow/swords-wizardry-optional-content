@@ -1,0 +1,32 @@
+folder: mB5eVVkSERKLd3k5
+name: Summon Shadow
+type: spell
+_id: SX19OrzVsDlnNRYN
+img: systems/swords-wizardry/assets/game-icons-net/shadow-follower.svg
+system:
+  description: >-
+    <p>This spell conjures forth a shadow (see “Shadow,” <em>Swords & Wizardry
+    Complete, Revised</em>) that will perform one task given to it by the caster
+    regardless of how long the task takes or how far the shadow must travel. The
+    shadow is not undead and cannot be dispelled or cast away by the Banish
+    Undead ability. The only way to stop such a shadow is to destroy it.</p>
+  spellLevel: '5'
+  range: Close
+  duration: Until mission is complete
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432458873
+  modifiedTime: 1775449076785
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!SX19OrzVsDlnNRYN'

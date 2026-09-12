@@ -1,0 +1,30 @@
+folder: YjA1CAQf0A5FQx72
+name: Fear
+type: spell
+_id: PHx8qtzBsLUjUj7E
+img: systems/swords-wizardry/assets/game-icons-net/terror.svg
+system:
+  description: >-
+    <p>This spell functions identically to the Magic-User spell of the same name
+    found on page 59 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '3'
+  range: 240 ft.
+  duration: 1 hour
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775429996789
+  modifiedTime: 1789239429642
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!PHx8qtzBsLUjUj7E'

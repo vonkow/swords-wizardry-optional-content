@@ -1,0 +1,41 @@
+folder: GThK2jfqAD9ihHMk
+name: Mark of the Damned
+type: spell
+_id: IMW0zIRk2sQqbwks
+img: systems/swords-wizardry/assets/game-icons-net/star-skull.svg
+system:
+  description: >-
+    <p>When this spell is cast all human-sized creatures within 30 feet of the
+    caster must make a saving throw. Those that fail suffer no immediate
+    effects, but when they die they will rise again to life 1d6 rounds later as
+    ,mindless, corporeal undead creatures in the service of the caster. What
+    type of undead creature they rise as is based on their level or hit dice at
+    the time of their deaeth. Creatures with one or fewer hit dice rise as
+    skeletons. Those with 2 hit dice or levels rise as zombies. Those with three
+    hit dice or levels rise as ghouls. Those with 4 or more hit dice or levels
+    rise as wights. These newly created undead will be instinctively drawn to
+    their new master, regardless of their distance from the Necromancer, at the
+    time they are created. Any living being under the influence of this spell
+    can be saved from a fate of Undead if they are targetd by a <em>Dispel
+    Evil</em> spell.</p>
+  spellLevel: '5'
+  range: 30 ft.
+  duration: Special
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433842836
+  modifiedTime: 1789238634599
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!IMW0zIRk2sQqbwks'

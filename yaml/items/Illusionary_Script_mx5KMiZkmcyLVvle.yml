@@ -1,0 +1,36 @@
+folder: YjA1CAQf0A5FQx72
+name: Illusionary Script
+type: spell
+_id: mx5KMiZkmcyLVvle
+img: systems/swords-wizardry/assets/game-icons-net/scroll-quill.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist can write up to one page per
+    level of a magical script that can only be seen by the caster and others
+    they designate at the time of casting. Anyone other than the caster or those
+    who were designated as being able to read the script that attempt to read it
+    must make a saving throw or they suffer the full effects of a <em>Confusion
+    </em>spell (see <em>Swords & Wizardry Complete, Revised, </em>pg. 56) for
+    1d6 rounds. Illusionary script can be removed by <em>Dispel Illusion</em> or
+    <em>Dispel Magic.</em></p>
+  spellLevel: '3'
+  range: One page of text written by the caster
+  duration: Permanent until dispelled
+  requiresSave: false
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775430065472
+  modifiedTime: 1789239406208
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!mx5KMiZkmcyLVvle'

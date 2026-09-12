@@ -1,0 +1,32 @@
+folder: I1IR7yZSPaBi9PEc
+name: Read Normal Languages
+type: feature
+_id: kOt2fVsryQtRKFjw
+img: modules/swords-wizardry-content/images/game-icons-net/wax-tablet.svg
+system:
+  description: >-
+    <p>Troubadours can decipher the general meaning of most written languages
+    and can comprehend treasure maps and written documents in any language with
+    a few minutes of study. This does not include deciphering codes or solving
+    written riddles.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1723314645108
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!kOt2fVsryQtRKFjw'

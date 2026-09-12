@@ -1,0 +1,30 @@
+folder: ZjvpQxSH8Lu4GqMK
+name: Multiple Attacks
+type: feature
+_id: 14DUFqZWEGVCP5C3
+img: systems/swords-wizardry/assets/game-icons-net/striped-sword.svg
+system:
+  description: >-
+    <p>Against creatures with 1 (8-sided) hit die or less, a Wrath-chanter makes
+    one attack per level each round.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377733312
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!14DUFqZWEGVCP5C3'

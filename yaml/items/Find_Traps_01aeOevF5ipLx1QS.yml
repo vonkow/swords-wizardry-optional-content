@@ -1,0 +1,30 @@
+folder: VoaAT4iglPuwP46U
+name: Find Traps
+type: spell
+_id: 01aeOevF5ipLx1QS
+img: systems/swords-wizardry/assets/game-icons-net/box-trap.svg
+system:
+  description: >-
+    <p>The caster can perceive magical and non-magical traps at a distance of 30
+    feet. This spell is identical to the Clerical spell of the same name, and
+    can by copied from a Clerical scroll into the Demon Hunter’s spellbook.</p>
+  spellLevel: '2'
+  range: 30 feet
+  duration: 20 minutes (2 turns)
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741504114601
+  modifiedTime: 1741565318144
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!01aeOevF5ipLx1QS'

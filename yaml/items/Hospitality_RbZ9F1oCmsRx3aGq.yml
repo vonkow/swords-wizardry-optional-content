@@ -1,0 +1,52 @@
+folder: QA8alBTGHPhsmNsn
+name: Hospitality
+type: feature
+_id: RbZ9F1oCmsRx3aGq
+img: systems/swords-wizardry/assets/game-icons-net/holy-grail.svg
+system:
+  description: >-
+    <div class="page" title="Page 10">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>A Chivalric Knight who formally announces themselves and introduces
+    themselves to a noble or other ruler of a keep or castle can expect to be
+    given that ruler&rsquo;s hospitality. As long as the Chivalric Knight keeps
+    the peace and does not bring trouble or dishonor to this ruler&rsquo;s name
+    or people, they can expect to be given food and board within the castle as
+    well as a place at all courtly events. This hospitality lasts for one month
+    per level of the Chivalric Knight, but does not necessarily extend to their
+    adventuring companions.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377481595
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!RbZ9F1oCmsRx3aGq'

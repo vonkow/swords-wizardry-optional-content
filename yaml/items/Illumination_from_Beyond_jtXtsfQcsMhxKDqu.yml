@@ -1,0 +1,65 @@
+folder: fwgVmUV2JC9JRRLd
+name: Illumination from Beyond
+type: spell
+_id: jtXtsfQcsMhxKDqu
+img: systems/swords-wizardry/assets/game-icons-net/interstellar-path.svg
+system:
+  description: >-
+    <div class="page" title="Page 48">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell draws visual stimuli from an extraplanar realm tied to the
+    Warlock&rsquo;s alignment as detailed below. This visual stimuli must be
+    cast on a handheld object and remains on that object for the duration of the
+    spell. So the Warlock could cast this spell on a rock, a coin, or small
+    knife - but not on a person&rsquo;s eyes or directly on a target.</p>
+
+    <ul>
+
+    <li><em>Chaos:</em> Chaotic Warlocks conjure a globe of darkness akin to a
+    moonless night that has a 20 foot radius.</li>
+
+    <li><em style="font-family: var(--font-primary); font-size:
+    0.875rem;">Law:</em><span style="font-family: var(--font-primary);
+    font-size: 0.875rem;"> Lawful Warlocks conjure a globe of light akin to a
+    torch that has a radius of 20 feet.</span></li>
+
+    <li><em style="font-family: var(--font-primary); font-size:
+    0.875rem;">Neutrality:</em><span style="font-family: var(--font-primary);
+    font-size: 0.875rem;"> Neutral Warlocks conjure a sphere of mist or thick
+    fog that obscures vision and has a radius of 20 feet.</span></li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: ''
+  range: ''
+  duration: ''
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660452809
+  modifiedTime: 1723660520242
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!jtXtsfQcsMhxKDqu'

@@ -1,0 +1,30 @@
+folder: 1MVPskZ7m6kUM7Up
+name: Animate Slain
+type: spell
+_id: e1DBK1vp5vwGCw0P
+img: systems/swords-wizardry/assets/game-icons-net/internal-injury.svg
+system:
+  description: >-
+    <p>For the duration of this spell, any humanoid (of no more than 3 hit dice)
+    slain by a melee attack from the Necromancer will rise one hour after their
+    death as a skeleton under the command of the Necromancer.</p>
+  spellLevel: '2'
+  range: Special
+  duration: 2 rounds + the Necromancer's level rounds
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741578625542
+  modifiedTime: 1775449627026
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!e1DBK1vp5vwGCw0P'

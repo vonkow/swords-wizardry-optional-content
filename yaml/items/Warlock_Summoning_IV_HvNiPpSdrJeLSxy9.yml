@@ -1,0 +1,35 @@
+folder: PG8Oy96UyWUXajPM
+name: Warlock Summoning IV
+type: spell
+_id: HvNiPpSdrJeLSxy9
+img: systems/swords-wizardry/assets/game-icons-net/imp.svg
+system:
+  description: >-
+    <p>The Warlock summons allies to serve them until slain or until the spell’s
+    duration ends. These servants do not arrive immediately, instead showing up
+    1d6 rounds after the spell is cast. The Warlock can summon 1d2 creatures
+    with a Challenge Rating of 5, 1d3+1 creatures with a Challenge Rating of 4,
+    or 1d4+2 creatures with a Challenge Rating of 3. Lawful Warlocks can only
+    summon Lawful or Neutral Creatures. Chaotic Warlocks can only summon Chaotic
+    or Neutral creatures. Neutral Warlocks suffer no restriction in the
+    alignment of the creatures they summon.</p>
+  spellLevel: '5'
+  range: N/A
+  duration: 1 minute per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568684480
+  modifiedTime: 1741572474428
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!HvNiPpSdrJeLSxy9'

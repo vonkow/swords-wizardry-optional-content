@@ -1,0 +1,61 @@
+folder: DlFVXIGOavcPvho0
+name: Detect Invisibility
+type: spell
+_id: khTGiVpQNgvvu0WM
+img: systems/swords-wizardry/assets/game-icons-net/radar-sweep.svg
+system:
+  description: >-
+    <div class="page" title="Page 38">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <div class="page" title="Page 38">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 58 of Swords &amp; Wizardry Complete, Revised.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 10 ft per caster level
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723658967991
+  modifiedTime: 1723659017402
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!khTGiVpQNgvvu0WM'

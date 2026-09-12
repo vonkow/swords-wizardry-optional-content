@@ -1,0 +1,48 @@
+folder: bqOlZH4c07JBbblf
+name: Saving Throw Bonus
+type: feature
+_id: YD1rtpAsF8qBhnFY
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <div class="page" title="Page 18">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Illusionists receive a +2 bonus to resist all mind-influencing or
+    illusionary magical effects and spells, like Charm Person, Confusion, or
+    Phantasmal Force. This includes when these effects originate from a magic
+    item or a monster&rsquo;s special abilities.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377642034
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!YD1rtpAsF8qBhnFY'

@@ -1,0 +1,29 @@
+folder: mB5eVVkSERKLd3k5
+name: Project Image
+type: spell
+_id: lE9OSMlY0NxQgOJ8
+img: systems/swords-wizardry/assets/game-icons-net/film-projector.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 66 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '5'
+  range: 240 ft. sphere
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432428290
+  modifiedTime: 1775449065207
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!lE9OSMlY0NxQgOJ8'

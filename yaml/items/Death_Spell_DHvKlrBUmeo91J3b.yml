@@ -1,0 +1,29 @@
+folder: GThK2jfqAD9ihHMk
+name: Death Spell
+type: spell
+_id: DHvKlrBUmeo91J3b
+img: systems/swords-wizardry/assets/game-icons-net/dead-head.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 58 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '5'
+  range: 240 ft.
+  duration: Causes normal death
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433812001
+  modifiedTime: 1775450158549
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!DHvKlrBUmeo91J3b'

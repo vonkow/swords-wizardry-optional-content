@@ -1,0 +1,36 @@
+folder: 1MVPskZ7m6kUM7Up
+name: Defiling Touch
+type: spell
+_id: Odne8RjuUFiw8FiD
+img: systems/swords-wizardry/assets/game-icons-net/evil-hand.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Necromancer’s hand shrivels and twists into
+    that of a long rotted corpse with sharp claw-like nails. For the duration of
+    this spell, the caster can make a melee attack using these nails that does
+    1d4 damage. Each time the caster inflicts damage on a target under the
+    protection of a <em>Bless, Prayer, </em>or any <em>Protection from Evil</em>
+    spell, or <em>Set to Rest </em>those effects are dispelled unless the victim
+    makes a successful saving throw.</p>
+  spellLevel: '2'
+  range: Touch
+  duration: 1d6 rounds, +1 round per level of the Necromancer
+  formula: 1d4
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433125594
+  modifiedTime: 1789238890663
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!Odne8RjuUFiw8FiD'

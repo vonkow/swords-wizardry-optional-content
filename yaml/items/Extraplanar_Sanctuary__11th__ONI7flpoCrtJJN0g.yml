@@ -1,0 +1,35 @@
+folder: xqBkrcWr1JwvJq3N
+name: Extraplanar Sanctuary (11th)
+type: feature
+_id: ONI7flpoCrtJJN0g
+img: systems/swords-wizardry/assets/game-icons-net/abstract-101.svg
+system:
+  description: >-
+    <p>At 11th level, the Warlock can build&nbsp;a shrine, stone circle, or
+    infernal altar that acts as a personal portal&nbsp;to an extraplanar pocket
+    to serve as their sanctuary. This sanctuary is approximately the same size
+    as a castle, but its exact size and nature are determined by the Warlock -
+    with approval from the Referee. Extraplanar creatures may or may not notice
+    this sanctuary and depending on their inactions with the Warlock, may become
+    allies, adversaries, or develop a different type of relationship.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377706261
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!ONI7flpoCrtJJN0g'

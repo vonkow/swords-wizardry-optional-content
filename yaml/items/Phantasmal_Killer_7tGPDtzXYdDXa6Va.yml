@@ -1,0 +1,42 @@
+folder: YjA1CAQf0A5FQx72
+name: Phantasmal Killer
+type: spell
+_id: 7tGPDtzXYdDXa6Va
+img: systems/swords-wizardry/assets/game-icons-net/magic-hat.svg
+system:
+  description: >-
+    <p>This spell conjures an illusion only visible to the Illusionist and the
+    target. This illusion appears as a horrid creature torn from the target’s
+    worst nightmares. This nightmare cannot be attacked and can pass through any
+    barriers that prevent it from reaching the target, but the target may
+    attempt to disbelieve the creature’s presence if it is appropriate. At the
+    end of the round upon which it was conjured, the nightmare successfully
+    attacks the target, slaying them instantly unless the target makes a
+    successful saving throw. If the target has successfully disbelieved in the
+    Phantasmal Killer, they can turn it back on the Illusionist who summoned the
+    horror in the first place - forcing the Illusionist to make their own saving
+    throw or be slain. Any character who has previously disbelieved in the
+    effects of the Phantasmal Killer spell receives a +5 bonus on all future
+    saving throws to avoid death and a similar bonus on attempts to disbelieve
+    in the nightmare creature (depending on how the referee is handling
+    disbelief).</p>
+  spellLevel: '3'
+  range: 60 ft.
+  duration: One round
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775430231612
+  modifiedTime: 1775446592647
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!7tGPDtzXYdDXa6Va'

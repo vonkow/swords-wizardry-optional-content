@@ -1,0 +1,33 @@
+folder: RoEPaRVoUs0aoKRb
+name: Vampire Ward
+type: spell
+_id: t9FxsnTTurjSIbIX
+img: systems/swords-wizardry/assets/game-icons-net/fanged-skull.svg
+system:
+  description: >-
+    <p>This spell wards the touched creature (or the caster) against
+    energy-draining effects from any source, not just vampires. The spell
+    operates much like magic resistance; the spell’s recipient has a 75% chance
+    to be completely unaffected by the energy-draining effect. If the spell does
+    not protect the recipient, they can still make any saving throws to avoid
+    the effect normally.</p>
+  spellLevel: '3'
+  range: Creature touched
+  duration: 1 turn
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741565594631
+  modifiedTime: 1741567654333
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!t9FxsnTTurjSIbIX'

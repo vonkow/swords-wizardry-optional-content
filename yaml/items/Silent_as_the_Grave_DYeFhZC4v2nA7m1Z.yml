@@ -1,0 +1,46 @@
+folder: 1PQLBgkYua5ewGfF
+name: Silent as the Grave
+type: spell
+_id: DYeFhZC4v2nA7m1Z
+img: systems/swords-wizardry/assets/game-icons-net/silenced.svg
+system:
+  description: >-
+    <div class="page" title="Page 45">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>The caster, or one person they touch when casting this spell, moves with
+    absolute perfect silence as long as they only move at one-half their normal
+    movement speed and do not speak above a whisper. Whether or not it is
+    possible to whisper when casting a spell is at the Referee&rsquo;s
+    discretion. Attacking ends this spell unless the victim of the attack is
+    unaware of the attacker and that victim is killed in a single strike. Other
+    quick movement or obvious actions end this spell.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: Touch
+  duration: Special
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660198526
+  modifiedTime: 1723660223631
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!DYeFhZC4v2nA7m1Z'

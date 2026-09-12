@@ -1,0 +1,47 @@
+folder: QkjUebInbrkGK4Ip
+name: Establish Clan (9th)
+type: feature
+_id: jQTHOFCXU4G0gY9g
+img: systems/swords-wizardry/assets/game-icons-net/barbarian.svg
+system:
+  description: >-
+    <div class="page" title="Page 6">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Upon reaching 9th level, a Barbarian&nbsp;earns the title of Chieftain,
+    at which time 2d6+1 1st level Barbarians will track down the Chieftain and
+    swear allegiance to the new clan. They will remain loyal followers as long
+    as the Chieftain provides for&nbsp;their basic needs, takes them on regular
+    raids, and provides ample&nbsp;opportunity for battle. A Chieftain who fails
+    to do so may eventually&nbsp;be branded a coward, and betrayed or challenged
+    for supremacy.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377391412
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!jQTHOFCXU4G0gY9g'

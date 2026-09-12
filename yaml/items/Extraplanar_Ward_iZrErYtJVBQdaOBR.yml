@@ -1,0 +1,40 @@
+folder: aZ5zyc73GahTcYeT
+name: Extraplanar Ward
+type: spell
+_id: iZrErYtJVBQdaOBR
+img: systems/swords-wizardry/assets/game-icons-net/rolling-energy.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock can define its shape as either a
+    half-sphere that encircles them with a diameter of 30 feet or a straight 60
+    long and 20 foot tall wall that begins within 10 feet of the Warlock and
+    extends out in a single direction. Any creature not native to the mortal
+    plane is unable to cross the break through the wall unless they make a
+    successful saving throw. If the creature attempting to cross this wall is of
+    the op posite alignment as the Warlock casting this spell, the extraplanar
+    creature suffers 1d6 damage per level of the Warlock. If the Warlock is
+    Neutral, then any Lawful or Chaotic extraplanar creature attempting to cross
+    the ward makes their saving throw at a -4 penalty, but only suffers one
+    point of damage per level of the Neutral Warlock when attempting to cross
+    the ward. Once an extraplanar has crossed the ward once, they can do so
+    freely until the spell ends.</p>
+  spellLevel: '3'
+  range: 30 ft. radius or 60 ft. wall
+  duration: 1 turn per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568477790
+  modifiedTime: 1741575678894
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!iZrErYtJVBQdaOBR'

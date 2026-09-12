@@ -1,0 +1,38 @@
+folder: I1IR7yZSPaBi9PEc
+name: Spell Casting
+type: feature
+_id: 1aBUlUp0hUNJfuJg
+img: modules/swords-wizardry-content/images/game-icons-net/magick-trick.svg
+system:
+  description: >-
+    <p>Unlike a Magic-user or Illusionist, a Troubadour does not begin play with
+    a spellbook or knowing any spells. They do not automatically gain the
+    knowledge of new spells simply by advancing in level. They must find or
+    purchase a spellbook and then learn spells through finding and scribing them
+    into their spellbook or through means appropriate to each individual
+    campaign. This is most often done through the discovery of scrolls
+    containing illusionist spells. They must still check to Learn Spells when
+    attempting to learn an illusionist spell from a scroll. Troubadours are not
+    capable of memorizing or casting additional spells for advancing beyond 12th
+    level.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1723314621719
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!1aBUlUp0hUNJfuJg'

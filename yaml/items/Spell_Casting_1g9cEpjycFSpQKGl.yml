@@ -1,0 +1,52 @@
+folder: 4sUeWC6lOEUTLROD
+name: Spell Casting
+type: feature
+_id: 1g9cEpjycFSpQKGl
+img: systems/swords-wizardry/assets/game-icons-net/skull-staff.svg
+system:
+  description: >-
+    <div class="page" title="Page 19">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Like the Magic-User, a Necromancer owns a book of spells, which does not
+    necessarily include all the spells on the Necromancer spell list. Reading
+    from this book, Necromancers force selected spell formulae into their minds,
+    &ldquo;preparing&rdquo; as many spells as the Necromancer can mentally
+    sustain. (It is possible to prepare a spell multiple times using the
+    available &ldquo;slots&rdquo; in the Necromancer&rsquo;s memory and mental
+    capability.) Once a prepared spell is cast, it disappears from the
+    Necromancer&rsquo;s ability to cast, until it is prepared again. If a
+    Necromancer finds scrolls of spells (either Necromancer spells, Cleric
+    Spells, or Magic-User spells that are also part of the Necromancer spell
+    list) while adventuring, these spells can be added to the
+    Necromancer&rsquo;s spellbook.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377677212
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!1g9cEpjycFSpQKGl'

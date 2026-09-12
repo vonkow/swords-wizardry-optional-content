@@ -1,0 +1,44 @@
+folder: PG8Oy96UyWUXajPM
+name: Gaze Not Upon The Mind
+type: spell
+_id: W6HlYnCycOwyjO5R
+img: systems/swords-wizardry/assets/game-icons-net/rear-aura.svg
+system:
+  description: >-
+    <p>For the duration of this spell, the Warlock cannot be targeted by any
+    spell or magical item that would read or influence their thoughts or
+    emotions. Examples include, <em>Alter Alignment, Charm Person,</em> <em>ESP
+    (Detect Thoughts), Fear, Mass Charm, </em>and <em>Phantasmal Killer.
+    </em>The Warlock can still be scryed upon using spells like
+    <em>Clairvoyance</em> or a <em>Crystal Ball. </em>This spell has additional
+    effects based on the Warlock’s alignment.</p><ul><li><p
+    class="p2"><em>Chaos: </em>The person attempting to read or influence the
+    thoughts and emotions of a Chaotic Warlock suffers a terrible psychic
+    backlash that rips through their body and inflicts 5d4+5
+    damage.</p></li><li><p class="p2"><em>Law:</em> The person attempting to
+    read or influence the thoughts and emotions of a Lawful Warlock becomes
+    feebleminded and is unable to cast spells for the remainder of the <em>Gaze
+    Not Upon the Mind</em> spell’s duration.</p></li><li><p
+    class="p2"><em>Neutrality</em>: Neutral Warlocks immediately know the name,
+    location, alignment, and even get a visual image of anyone attempting to
+    magically influence their thoughts and emotions.</p></li></ul>
+  spellLevel: '5'
+  range: Caster only
+  duration: 12 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568654902
+  modifiedTime: 1741571965053
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!W6HlYnCycOwyjO5R'

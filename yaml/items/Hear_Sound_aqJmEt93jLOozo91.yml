@@ -1,0 +1,163 @@
+folder: QkjUebInbrkGK4Ip
+name: Hear Sound
+type: feature
+_id: aqJmEt93jLOozo91
+img: systems/swords-wizardry/assets/game-icons-net/human-ear.svg
+system:
+  description: >-
+    <div class="page" title="Page 6">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>A Barbarian can hear well when concentrating; this&nbsp;mainly includes
+    listening at doors, but can also be used to hear unusual or discordant
+    sounds in the wilderness.</p>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Hear Sound</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>3-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>3-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>4-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>4-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>4-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>4-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>5-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>5-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>5-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>5-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>6-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>6-in-6</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13+</td>
+
+    <td>Stays at 6-in-6</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d6
+  target: '3'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377397200
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!aqJmEt93jLOozo91'

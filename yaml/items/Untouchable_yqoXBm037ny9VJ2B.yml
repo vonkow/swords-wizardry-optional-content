@@ -1,0 +1,44 @@
+folder: zu57qy8kotpKFTtO
+name: Untouchable
+type: spell
+_id: yqoXBm037ny9VJ2B
+img: systems/swords-wizardry/assets/game-icons-net/black-hand-shield.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock selects one extraplanar creature
+    (including summoned creatures) within the spell’s range. If that creature
+    fails a saving throw, the Warlock is immune to all damage, spell effects, or
+    proximity effects the extraplanar creature is able to bring to bear. In
+    short, the extraplanar creature is unable to adversely affect the Warlock at
+    all, but they receive a new saving throw to overcome these effects each
+    round.</p><ul><li><p class="p2"><em>Chaos: </em>If cast by a Chaotic Warlock
+    on a Lawful extraplanar creature, that creature suffers a -4 penalty on
+    their saving throw to overcome this spell.</p></li><li><p
+    class="p2"><em>Law:</em> If cast by a Lawful Warlock on a Chaotic
+    extraplanar creature, that creature suffers a -4 penalty on their saving
+    throw to overcome this spell.</p></li><li><p class="p2"><em>Neutrality</em>:
+    When this spell is first cast, the Neutral Warlock can opt to effect 1d4
+    extraplanar creatures instead of a single target, but all creatures targeted
+    receive a +2 bonus on their saving throw to overcome the spell’s effect if
+    the Neutral Warlock does this.</p></li></ul>
+  spellLevel: '4'
+  range: 120 ft.
+  duration: 1 round per level
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741568602322
+  modifiedTime: 1789237661146
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!yqoXBm037ny9VJ2B'

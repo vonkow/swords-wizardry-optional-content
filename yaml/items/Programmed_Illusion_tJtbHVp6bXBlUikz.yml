@@ -1,0 +1,37 @@
+folder: IgLrhqTEQcQcG1jj
+name: Programmed Illusion
+type: spell
+_id: tJtbHVp6bXBlUikz
+img: systems/swords-wizardry/assets/game-icons-net/robot-antennas.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the third level spell <em>Spectral
+    Force</em>, except it can be given a specific set of instructions that does
+    not require the Illusionist who cast the spell to concentrate or even be
+    present. So, for example, the Illusionist may cast this spell to create an
+    illusionary dragon that it commands to fly over a village, circle the town
+    square three times, land in that town square and let out a bloodcurdling
+    cry, then fly off towards the horizon. The illusion can be given any
+    instructions that do not require direct interaction with anything or anyone
+    physical and do not exceed the spell’s duration.</p>
+  spellLevel: '6'
+  range: 240 ft.
+  duration: 2 hours
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775432698067
+  modifiedTime: 1789239186826
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!tJtbHVp6bXBlUikz'

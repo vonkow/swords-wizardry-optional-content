@@ -1,0 +1,33 @@
+folder: iPeFXB4L4ElceSO6
+name: Commune
+type: spell
+_id: 5nvUjViefwoeldR4
+img: systems/swords-wizardry/assets/game-icons-net/kneeling.svg
+system:
+  description: >-
+    <p>Higher powers grant an answer to three questions the caster poses to
+    them. Higher powers do not like being constantly interrogated by mere
+    mortals, so use of the spell should be limited to once per week or so by the
+    Referee. This spell is identical to the Clerical spell of the same name and
+    level, and it can be copied from a scroll into the Demon Hunter’s
+    spellbook.</p>
+  spellLevel: '5'
+  range: Caster
+  duration: 3 questions
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741565649435
+  modifiedTime: 1741567010579
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!5nvUjViefwoeldR4'

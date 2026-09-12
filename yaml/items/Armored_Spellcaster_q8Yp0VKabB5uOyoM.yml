@@ -1,0 +1,42 @@
+folder: koLZmMYFNjA9NWX4
+name: Armored Spellcaster
+type: feature
+_id: q8Yp0VKabB5uOyoM
+img: systems/swords-wizardry/assets/game-icons-net/armor-punch.svg
+system:
+  description: >-
+    <div class="page" title="Page 15">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Elfblades can cast spells while wearing armor with no penalty, though
+    they must still have at least one free hand to do so.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377596312
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!q8Yp0VKabB5uOyoM'

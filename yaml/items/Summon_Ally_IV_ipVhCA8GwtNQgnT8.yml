@@ -1,0 +1,40 @@
+folder: iPeFXB4L4ElceSO6
+name: Summon Ally IV
+type: spell
+_id: ipVhCA8GwtNQgnT8
+img: systems/swords-wizardry/assets/game-icons-net/hound.svg
+system:
+  description: >-
+    <p>The caster summons allies that follow commands until slain or until the
+    duration of the spell expires. The allies do not appear immediately; there
+    is a delay of 1d4 rounds before they appear. This spell is not related to
+    the Magic-User’s Monster Summoning spells, and cannot be copied from these
+    spells or scrolls.</p><table><tbody><tr><td><p><strong>Die Roll
+    (1d6)</strong></p></td><td><p><strong>Creature
+    Summoned</strong></p></td></tr><tr><td><p>1</p></td><td><p>Nothing
+    appears</p></td></tr><tr><td><p>2</p></td><td><p>1d4
+    bears</p></td></tr><tr><td><p>3</p></td><td><p>1d3 <em>Chalkeion
+    Hoplites</em></p></td></tr><tr><td><p>4</p></td><td><p>2d6 <em>Guard
+    dogs</em></p></td></tr><tr><td><p>5</p></td><td><p>2d4 <em>Origami
+    Warriors</em></p></td></tr><tr><td><p>6</p></td><td><p>1d3
+    Centaurs</p></td></tr></tbody></table>
+  spellLevel: '5'
+  range: N/A
+  duration: 6 rounds (minutes)
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741566302491
+  modifiedTime: 1741566530104
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!ipVhCA8GwtNQgnT8'

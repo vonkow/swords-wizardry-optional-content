@@ -1,0 +1,35 @@
+folder: VLBK6RTa0FsTYVh7
+name: Masquerade of the Dead
+type: spell
+_id: 70MCngwpxKir45Ly
+img: systems/swords-wizardry/assets/game-icons-net/candle-skull.svg
+system:
+  description: >-
+    <p>Though no visible change comes over the Necromancer after this spell has
+    been cast, they do give off the vague scent of grave dirt for its duration.
+    For the duration of this spell they are considered to be “undead.” They are
+    immune to mind-influencing spells, poison, disease, sleep, charm, paralyzing
+    and hold effects (unless the spell specifies otherwise), are healed by
+    reversed <em>Cure</em> spells. They also do not need to eat or sleep and
+    move in perfect, eerie silence for the duration of this spell. Because they
+    are not true undead, they cannot be turned.</p>
+  spellLevel: '4'
+  range: Caster only
+  duration: One hour per level of the Necromancer
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433720553
+  modifiedTime: 1775450225741
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!70MCngwpxKir45Ly'

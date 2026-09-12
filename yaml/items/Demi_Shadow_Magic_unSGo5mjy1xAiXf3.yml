@@ -1,0 +1,51 @@
+folder: mB5eVVkSERKLd3k5
+name: Demi-Shadow Magic
+type: spell
+_id: unSGo5mjy1xAiXf3
+img: systems/swords-wizardry/assets/game-icons-net/lightning-shadow.svg
+system:
+  description: >-
+    <p>The Illusionist weaves a “false” version of an offensive spell that
+    appears identical to the spell it is attempting to mimic, though with a
+    lesser effect to those who are aware the effect is illusionary. The
+    Illusionist can mimic one the following spells when they cast Demi-Shadow
+    Magic: <em>Death Spell</em>, <em>Fireball</em>, and <em>Lightning Bol, Wall
+    of Fire, </em>and <em>Wall of Ice</em>. with the reduced effects detailed
+    below.</p><p class="p1"><em>Death Spell:</em> 1d8 creatures of 3 HD or less
+    within 240 feet of the caster or less are instantly slain.</p><p
+    class="p1"><em>Fireball:</em> This functions identically to the normal
+    <em>Fireball</em> spell, but the Illusionist inflicts one-half (rounded
+    down) of the damage that Magic-User would roll when casting a
+    <em>Fireball</em>.</p><p class="p1"><em>Lightning Bolt:</em> This functions
+    identically to the normal <em>Lightning Bolt</em> spell, but the Illusionist
+    inflicts one-half (rounded down) of the damage that Magic-User would roll
+    when casting a <em>Lightning Bolt</em>.</p><p><em>Wall of Fire:</em> This
+    functions identically to the normal <em>Wall of Fire</em> spell, but the
+    Illusionist inflicts one-half (rounded down) of the damage that Magic-User
+    would roll when casting a <em>Wall of Fire</em>.</p><p class="p1"><em>Wall
+    of Ice:</em> This functions identically to the normal <em>Wall of Ice</em>
+    spell, but the Illusionist inflicts one-half (rounded down) of the damage
+    that Magic-User would roll when casting a <em>Wall of Ice</em>.</p><p
+    class="p1">If the target is unaware that the spell’s effects are illusionary
+    they suffer the full effect of the spell being mimicked by Demi-Shadow
+    Magic.</p>
+  spellLevel: '5'
+  range: See Below
+  duration: See Below
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432220975
+  modifiedTime: 1775448770849
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!unSGo5mjy1xAiXf3'

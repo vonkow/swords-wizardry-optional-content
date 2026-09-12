@@ -1,0 +1,47 @@
+folder: kY7FzuSIT2X9iZBD
+name: Linguist
+type: feature
+_id: fT1mhkoMn07L2KsX
+img: systems/swords-wizardry/assets/game-icons-net/conversation.svg
+system:
+  description: >-
+    <div class="page" title="Page 8">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>At 1st level a Bard can select one additional language in which they are
+    fluent and literate. Each time they gain a level they may add an additional
+    language to this list.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377430956
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!fT1mhkoMn07L2KsX'

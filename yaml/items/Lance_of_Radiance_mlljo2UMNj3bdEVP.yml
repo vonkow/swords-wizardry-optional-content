@@ -1,0 +1,37 @@
+folder: VoaAT4iglPuwP46U
+name: Lance of Radiance
+type: spell
+_id: mlljo2UMNj3bdEVP
+img: systems/swords-wizardry/assets/game-icons-net/fast-arrow.svg
+system:
+  description: >-
+    <p>This spell creates a momentary beam of radiant light that damages
+    creatures in a 5ft wide line in front of the Demon Hunter, to a distance of
+    60ft. All creatures in the spell’s area of effect take 1d6 points of damage,
+    and Chaotically-aligned creatures take an additional 1d6 points. In either
+    case, a saving throw is allowed, in which case the target receives only half
+    damage from the spell.</p>
+  spellLevel: '2'
+  range: 60 feet
+  duration: Immediate
+  formula: 1d6
+  effectType: damage
+  requiresSave: true
+  saveEffect: half
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741504127709
+  modifiedTime: 1789239712204
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!mlljo2UMNj3bdEVP'

@@ -1,0 +1,38 @@
+folder: r0plGLSWtlRbxB6H
+name: Shadow Touch
+type: spell
+_id: wLJ9JEzoldEmMsCv
+img: systems/swords-wizardry/assets/game-icons-net/black-hand-shield.svg
+system:
+  description: >-
+    <p>For the duration of this spell the caster’s hands and forearms become
+    shadows. This means that they can put their arms (up to the elbow) through
+    physical objects. In addition, the caster receives a +2 bonus on all touch
+    attacks made with their shadowy hands. This shadowy touch inflicts 1d4
+    damage and the victim must make a saving throw or lose 1 point of Strength.
+    If a victim’s Strength is reduced to 0 by this spell, they rise as a shadow
+    (see <em>Swords & Wizardry Complete, Revised</em> pg. 118) under the control
+    of the caster. Lost Strength otherwise returns at the rate of 1 point for
+    every 9 turns of rest.</p>
+  spellLevel: '3'
+  range: Touch
+  duration: 1 round per level of the caster
+  requiresSave: true
+  formula: 1d4
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433434674
+  modifiedTime: 1789238801434
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!wLJ9JEzoldEmMsCv'

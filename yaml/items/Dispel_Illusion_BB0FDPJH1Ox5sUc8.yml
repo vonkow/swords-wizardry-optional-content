@@ -1,0 +1,43 @@
+folder: vU45tlBKSM7aeUlh
+name: Dispel Illusion
+type: spell
+_id: BB0FDPJH1Ox5sUc8
+img: systems/swords-wizardry/assets/game-icons-net/shattered-heart.svg
+system:
+  description: >-
+    <p>Similar to <em>Dispel Magic</em>, this spell allows the caster to
+    temporarily suppress the properties of a magic item with illusionary
+    properties (such as a <em>Ring of Invisibility</em>, <em>Dust of
+    Disappearance</em>, or <em>Robe of Blending</em>) for ten minutes per
+    level.</p><p class="p1">In addition, this spell can be cast to dispel any
+    active spell or effectives of a spell from the Illusionist spell list. If
+    that spell was cast by a Magic-User (due to some of the spells shared
+    between the two lists), the spell is automatically dispelled. The chance of
+    successfully dispelling an illusion spell cast by an Illusionist who is of
+    higher level than the caster is a percentage based on the ratio of the level
+    of the dispelling caster over the level of the original caster (or hit dice
+    of the monster). Thus, a 6th-level Illusionist attempting to dispel a
+    <em>Shadow Monster</em> cast by a 12th-level Illusionist has a 50% chance of
+    success (6/12 = 0.50, or 50%). If the 12th-level Illusionist was dispelling
+    the 6th-level Illusionist’s <em>Continual Light</em> spell, success would be
+    certain (12/6 = 2.00, or 200%).</p>
+  spellLevel: '2'
+  range: 120 ft.
+  duration: 10 minutes against an item
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429552350
+  modifiedTime: 1775445525862
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!BB0FDPJH1Ox5sUc8'

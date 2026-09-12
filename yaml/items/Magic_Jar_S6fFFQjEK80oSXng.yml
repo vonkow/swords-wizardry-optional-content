@@ -1,0 +1,30 @@
+folder: VLBK6RTa0FsTYVh7
+name: Magic Jar
+type: spell
+_id: S6fFFQjEK80oSXng
+img: systems/swords-wizardry/assets/game-icons-net/covered-jar.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 62 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '4'
+  range: See spell entry
+  duration: See spell entry
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433689868
+  modifiedTime: 1789238711045
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!S6fFFQjEK80oSXng'

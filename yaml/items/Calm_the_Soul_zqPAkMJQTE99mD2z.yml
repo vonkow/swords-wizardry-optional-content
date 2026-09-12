@@ -1,0 +1,47 @@
+folder: EHwOyfl5we5NCwHO
+name: Calm the Soul
+type: spell
+_id: zqPAkMJQTE99mD2z
+img: systems/swords-wizardry/assets/game-icons-net/coma.svg
+system:
+  description: >-
+    <p>If the target of this spell is reduced to between zero hit points and a
+    negative hit point no greater than the caster’s level (-5 if the Warlock who
+    cast this was 5th level, -7 for if cast by a 7th level Warlock, etc.) they
+    are not immediately slain. Instead, their body falls into a coma for the
+    remaining duration of this spell. Until the spell’s duration ends they are
+    unconscious, unaware of their environment, and cannot act. If the target is
+    restored to one hit point, they return to consciousness halting death. If
+    they are at zero or fewer hit points when the spell ends, the target dies.
+    This spell cannot be cast on an unwilling target and an additional effect
+    occurs based on the alignment of the Warlock casting the spell, as detailed
+    below.</p><ul><li><p class="p2"><em>Chaos: </em>During their brush with
+    death, the target saw horrible hellish visions of the afterlife and suffers
+    a -2 to all saving throws for the next 24 hours.</p></li><li><p
+    class="p2"><em>Law:</em> While their soul was drifting from their body, the
+    target became overwhelmed with a sense of peace and tranquility. They suffer
+    a -2 penalty on all attack rolls for the next 24 hours.</p></li><li><p
+    class="p2"><em>Neutrality</em>: The target’s soul drifted through strange
+    realities during their near-death experience. They have trouble parsing what
+    is real and what is not and react slowly to the world around them, suffering
+    a +2 [-2] penalty to their Armor Class for the next 24 hours.</p></li></ul>
+  spellLevel: '2'
+  range: Touch
+  duration: 1d4 rounds, plus 1 round per level of the caster
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568389049
+  modifiedTime: 1741576219902
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!zqPAkMJQTE99mD2z'

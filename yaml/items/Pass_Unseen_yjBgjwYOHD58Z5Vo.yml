@@ -1,0 +1,35 @@
+folder: CDg9GgtWU2Suuj9w
+name: Pass Unseen
+type: feature
+_id: yjBgjwYOHD58Z5Vo
+img: systems/swords-wizardry/assets/game-icons-net/hidden.svg
+system:
+  description: >-
+    <p>All gnomes have the ability to cast a spell called <em>pass unseen</em>
+    once per day. This ability lasts for one turn (10 minutes) and allows the
+    gnome to move without leaving any sign of passage at all, including scent or
+    footprints, even in snow or mud. During this one turn, the gnome is almost
+    invisible (a saving throw is required to spot them). If the gnome makes an
+    attack or casts a spell during the spell&rsquo;s duration, the invisibility
+    and the tracelessness are both lost.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377260331
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!yjBgjwYOHD58Z5Vo'

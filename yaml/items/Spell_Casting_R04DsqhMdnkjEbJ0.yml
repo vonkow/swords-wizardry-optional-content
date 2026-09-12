@@ -1,0 +1,58 @@
+folder: HVB8i8LZsVubbvJN
+name: Spell Casting
+type: feature
+_id: R04DsqhMdnkjEbJ0
+img: systems/swords-wizardry/assets/game-icons-net/incense.svg
+system:
+  description: >-
+    <div class="page" title="Page 12">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Like the Magic-User, a Demon Hunter owns a book of spells, which does not
+    necessarily include all of the spells on the Demon Hunter spell list.
+    Reading from this book, Demon Hunters force selected spell formulae into
+    their minds, &ldquo;preparing&rdquo; as many spells as they can mentally
+    sustain. (It is possible to prepare a spell multiple times using the
+    available &ldquo;slots&rdquo; in the Demon Hunter&rsquo;s memory and mental
+    capability.) The maximum number of spells a Demon Hunter can learn, and the
+    chance to be able to learn a new&nbsp;spell, is the same as for Magic-Users
+    (see the description of the Intelligence ability score in the Rulebook).
+    Once a prepared spell is cast, it disappears from the Demon Hunter&rsquo;s
+    ability to cast, until it is prepared again. If a Demon Hunter finds scrolls
+    of Magic-User or Clerical spells while adventuring, and the spell is on the
+    Demon Hunter Spell List, the spell description will mention whether the
+    scroll can be copied into the Demon Hunter&rsquo;s spellbook.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377543259
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!R04DsqhMdnkjEbJ0'

@@ -1,0 +1,31 @@
+folder: YjA1CAQf0A5FQx72
+name: Spectral Force
+type: spell
+_id: iJ8dXsvMhp26O7ti
+img: systems/swords-wizardry/assets/game-icons-net/magick-trick.svg
+system:
+  description: >-
+    <p>This spell functions exactly like <em>Improved Phantasmal Force</em>,
+    except the illusion is not destroyed when touched and continues to remain
+    present for one hour after the cast ceases concentrating.</p>
+  spellLevel: '3'
+  range: 240 ft.
+  duration: One hour after the caster ceases concentrating
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775430284452
+  modifiedTime: 1789239381217
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!iJ8dXsvMhp26O7ti'

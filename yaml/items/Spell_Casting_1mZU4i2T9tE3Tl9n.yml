@@ -1,0 +1,51 @@
+folder: koLZmMYFNjA9NWX4
+name: Spell Casting
+type: feature
+_id: 1mZU4i2T9tE3Tl9n
+img: systems/swords-wizardry/assets/game-icons-net/magic-swirl.svg
+system:
+  description: >-
+    <div class="page" title="Page 15">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>An Elfblade owns a book of spells, which does not necessarily include all
+    of the spells on the standard Magic-User spell lists. Reading from this
+    book, Elfblades force selected spell formulae into their minds,
+    &ldquo;preparing&rdquo; as many spells as they can mentally sustain. (It is
+    possible to prepare a spell multiple times using the available
+    &ldquo;slots&rdquo; in the Elfblade&rsquo;s memory and mental capability.)
+    Once a prepared spell is cast, it disappears from the Elfblade&rsquo;s
+    ability to cast, until it is prepared again. If an Elfblade finds scrolls of
+    Magic-User spells while adventuring, these spells can be added to the
+    Elfblade&rsquo;s spellbook; there is no difference between the magic of
+    Elfblades and that of Magic-users.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377619812
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!1mZU4i2T9tE3Tl9n'

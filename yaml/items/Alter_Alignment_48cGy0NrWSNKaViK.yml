@@ -1,0 +1,45 @@
+folder: PG8Oy96UyWUXajPM
+name: Alter Alignment
+type: spell
+_id: 48cGy0NrWSNKaViK
+img: systems/swords-wizardry/assets/game-icons-net/triple-yin.svg
+system:
+  description: >-
+    <p>The Warlock selects one target who must make a successful saving throw to
+    avoid the spell’s effect. If that saving throw is failed, the target’s
+    alignment is permanently changed. Previously Lawful characters become
+    Chaotic, and vice versa. Neutral characters become either Lawful (1-3 on
+    1d6) or Chaotic (4-6 on 1d6). Only a <em>Restoration </em>or <em>Wish
+    </em>spell can restore a victim’s original alignment.</p><ul><li><p
+    class="p2"><em>Chaos: </em>When this spell is used by a Chaotic Warlock on a
+    character who was previously Lawful, the victim of the Alter Alignment are
+    driven into a mad frenzy as their once rigid and stable psyche is assaulted
+    and reformed by overwhelming Chaos and gain a +2 bonus on all attack rolls
+    for 1d6 hours.</p></li><li><p class="p2"><em>Law:</em> When this spell is
+    used by a Lawful Warlock on a character who was previously Chaotic, the
+    victim of the Alter Alignment gains a +2 to all saving throws for the next
+    1d6 hours as their thoughts codify themselves into rigid thought patterns
+    and an unerring paradigm.</p></li><li><p class="p2"><em>Neutrality</em>:
+    When a Neutral Warlock casts this spell they may select the target’s new
+    alignment.</p></li></ul>
+  spellLevel: '5'
+  range: 120 ft.
+  duration: Permanent
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741568631084
+  modifiedTime: 1789237637093
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!48cGy0NrWSNKaViK'

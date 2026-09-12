@@ -1,0 +1,44 @@
+folder: EHwOyfl5we5NCwHO
+name: Music of the Spheres
+type: spell
+_id: aDi77RowoZGCHZmK
+img: systems/swords-wizardry/assets/game-icons-net/music-spell.svg
+system:
+  description: >-
+    <p>The caster releases a strange, unearthly music drawn from the plane of
+    existence to which they are tied that has a strange influence on those who
+    can hear it, depending on both the alignment of the Warlock and those who
+    hear it for the duration of the spell. Undead, constructs, other non-living
+    beings, and characters who are deaf cannot benefit from this
+    spell.</p><ul><li><p class="p2"><em>Chaos:<strong> </strong></em>The Chaotic
+    Warlock calls forth a song of slaying that sets a bloodlust in the hearts of
+    all who hear it. Everyone within the range of this spell receives a +2 bonus
+    on all melee damage rolls. Chaotic creatures that hear it also receive a +1
+    bonus to their attack rolls.</p></li><li><p class="p2"><em>Law:</em> The
+    Lawful Warlock calls forth a song of healing that eases the wounds of all
+    who hear it. Every living creature within the range of this spell heals 1
+    hit point per round while this spell is active. Lawful creatures heal 2 hit
+    points per round.</p></li><li><p class="p2"><em>Neutrality:</em> The Neutral
+    Warlock sets forth an uncanny tune that guides the steps and movements of
+    everyone who hears it. All who hear it receive a +2 bonus on all saving
+    throws while the spell is active.</p></li></ul>
+  spellLevel: '2'
+  range: 120 ft.
+  duration: 1 round per level of the caster
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568422960
+  modifiedTime: 1741575986142
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!aDi77RowoZGCHZmK'

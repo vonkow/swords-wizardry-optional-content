@@ -1,0 +1,49 @@
+folder: aZ5zyc73GahTcYeT
+name: Planar Form, Lesser
+type: spell
+_id: Vfa2RS4bwZ9XeycT
+img: systems/swords-wizardry/assets/game-icons-net/burning-passion.svg
+system:
+  description: >-
+    <p>The Warlock literally draws the very essence of the planes of reality
+    into their body, using it as a physical conduit to the planes of law, chaos,
+    and neutrality. For the duration of this spell the caster receives benefits
+    detailed below, based on their alignment.</p><ul><li><p
+    class="p2"><em>Chaos:</em> The Warlock’s body becomes enshrouded in
+    flickering tendrils of darkness. Any time they are struck by a melee attack
+    from a Lawful character or a weapon with a Lawful alignment, these black
+    tendrils lash out at the attacker, inflicting 1d4 per level of the Warlock.
+    The victim may make a saving throw to reduce the damage by
+    one-half.</p></li><li><p class="p2"><em>Law:</em> The Warlock’s body becomes
+    wreathed in blazing white flames. Any time they are struck by a melee attack
+    from a Chaotic character or a weapon with a Chaotic alignment, these flames
+    flair out at the attacker, inflicting 1d4 per level of the Warlock. The
+    victim may make a saving throw to reduce the damage by
+    one-half.</p></li><li><p class="p2"><em>Neutrality:</em> The Warlock’s body
+    is wrapped in a strange, dancing fog. Each time they are struck in melee
+    combat by a Lawful or Chaotic character or a melee weapon that is Lawful or
+    Chaotic in alignment the attacker must make a saving throw or lose one of
+    their senses. On their first failed save, the attacker is deafened. A second
+    failed saving throw causes a loss of speech. A third failed saving renders
+    the attacker blind. They do not lose any senses after this. Lost senses
+    return when the spell’s duration ends.</p></li></ul>
+  spellLevel: '3'
+  range: Caster
+  duration: 2 rounds, plus 1 rounds per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568509137
+  modifiedTime: 1741575109899
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!Vfa2RS4bwZ9XeycT'

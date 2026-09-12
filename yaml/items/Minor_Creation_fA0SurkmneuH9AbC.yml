@@ -1,0 +1,35 @@
+folder: Ii5zf09WikSUSt5O
+name: Minor Creation
+type: spell
+_id: fA0SurkmneuH9AbC
+img: systems/swords-wizardry/assets/game-icons-net/wood-pile.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist conjures forth no more than ten
+    pounds per level of cloth, wood, clay, stone, or even metal. Only one type
+    of object can be conjured with a casting of this spell. The material
+    conjured either appears as raw material (metal ore, felled trees, unspun
+    wool, etc.) or simply crafted material (spun cloth, wooden planks, stone
+    blocks, gold coins, etc.). If a <em>Dispel Magic </em>spell is cast on the
+    material or the spell’s duration expires, the material brought forth by the
+    <em>Minor Creation</em> vanishes.</p>
+  spellLevel: '4'
+  range: 120 ft.
+  duration: A number of days equal to 4 + Illusionist's level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775431886875
+  modifiedTime: 1775448698350
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!fA0SurkmneuH9AbC'

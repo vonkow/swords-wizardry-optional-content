@@ -1,0 +1,48 @@
+folder: 4sUeWC6lOEUTLROD
+name: Saving Throw Bonus
+type: feature
+_id: aaxijJFOVNrlijyz
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <div class="page" title="Page 20">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Necromancers receive a +2 bonus on all saving throws to resist
+    level-draining effects or death effects that would instantly kill them. If a
+    level-draining effect does not allow a saving throw, the Necromancer
+    receives a saving throw, but at a -4 penalty.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377672422
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!aaxijJFOVNrlijyz'

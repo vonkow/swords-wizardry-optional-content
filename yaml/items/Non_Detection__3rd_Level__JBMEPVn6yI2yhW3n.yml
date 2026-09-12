@@ -1,0 +1,32 @@
+folder: YjA1CAQf0A5FQx72
+name: Non-Detection (3rd Level)
+type: spell
+_id: JBMEPVn6yI2yhW3n
+img: systems/swords-wizardry/assets/game-icons-net/distraction.svg
+system:
+  description: >-
+    <p>While under the protection of this spell, the Illusionist is immune to
+    the effects of <em>Clairaudience, Clairvoyance, Detect Magic, Detect
+    Illusion, Detect Invisibility,</em> and similar spells (and magical items
+    that mimic these effects) that would reveal them. They can still be targeted
+    by a <em>True Sight</em> spell.</p>
+  spellLevel: '3'
+  range: Caster
+  duration: 2 rounds per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775430156893
+  modifiedTime: 1775446551225
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!JBMEPVn6yI2yhW3n'

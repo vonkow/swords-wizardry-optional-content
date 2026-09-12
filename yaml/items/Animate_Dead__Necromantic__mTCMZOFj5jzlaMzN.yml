@@ -1,0 +1,32 @@
+folder: VLBK6RTa0FsTYVh7
+name: Animate Dead (Necromantic)
+type: spell
+_id: mTCMZOFj5jzlaMzN
+img: systems/swords-wizardry/assets/game-icons-net/raise-zombie.svg
+system:
+  description: >-
+    <p>This spell is more powerful than the Magic-User spell of the same name
+    (see <em>Swords & Wizardry Complete, Revised</em>, pg. 54) that animates
+    skeletons or zombies from dead bodies. In the Necromancer’s version of the
+    spell, 1d6+1 undead are animated per level of the caster above 6th. The
+    corpses remain animated and under the control of the caster until slain.</p>
+  spellLevel: '4'
+  range: Referee's discretion
+  duration: Permanent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433519359
+  modifiedTime: 1775449970256
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!mTCMZOFj5jzlaMzN'

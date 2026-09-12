@@ -1,0 +1,46 @@
+folder: aZ5zyc73GahTcYeT
+name: Seal the Planes
+type: spell
+_id: 9V5ZypttHFqyLXiK
+img: systems/swords-wizardry/assets/game-icons-net/circle-cage.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock designates a circle with a 60 foot
+    radius. Nothing within that circle can be summoned from another plane,
+    banished back to its home plane, or make use of spells that draw upon planar
+    energy for purposes of movement (like <em>Dimension Door</em> or
+    <em>Teleport</em>). Summoned monsters whose duration has expended instantly
+    return to their home plane if they step outside the circle after the
+    duration of the spell that summoned them has ended. Attempts to summon
+    monsters while within the circle automatically fail. Even a <em>Dispel
+    Evil</em> cast to return a demonic entity back to its home plane cast within
+    the radius of this spell fails.</p><ul><li><p class="p2"><em>Chaos:
+    </em>Already summoned Lawful creatures caught in the radius of this spell
+    suffer a -2 penalty on all attack rolls and saving throws when this spell is
+    cast by a Chaotic Warlock.</p></li><li><p class="p2"><em>Law:</em> Already
+    summoned Chaotic creatures caught in the radius of this spell suffer a -2
+    penalty on all attack rolls and saving throws when this spell is cast by a
+    Lawful Warlock.</p></li><li><p class="p2"><em>Neutrality</em>: All summoned
+    or extraplanar creatures caught within the radius of this spell suffer a -1
+    penalty on all attack rolls and saving throws while the spell is
+    active.</p></li></ul>
+  spellLevel: '3'
+  range: 60 ft. radius
+  duration: 2 rounds per level of the caster
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568524080
+  modifiedTime: 1741574939538
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!9V5ZypttHFqyLXiK'

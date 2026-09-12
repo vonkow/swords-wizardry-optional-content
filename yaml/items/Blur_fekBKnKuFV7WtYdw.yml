@@ -1,0 +1,32 @@
+folder: vU45tlBKSM7aeUlh
+name: Blur
+type: spell
+_id: fekBKnKuFV7WtYdw
+img: systems/swords-wizardry/assets/game-icons-net/quick-slash.svg
+system:
+  description: >-
+    <p>For the duration of this effect, the caster’s physical appearance becomes
+    blurred and indistinct. In addition to making it difficult to identify the
+    caster, they also receive a -2 [+2] bonus to their Armor Class and a +2 on
+    all saving throws made to resist wands and the effects or spells that
+    originate from staves.</p>
+  spellLevel: '2'
+  range: Caster only
+  duration: 4 + 1d4 rounds
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429440162
+  modifiedTime: 1775445449564
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!fekBKnKuFV7WtYdw'

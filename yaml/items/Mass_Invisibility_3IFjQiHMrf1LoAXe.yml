@@ -1,0 +1,29 @@
+folder: IgLrhqTEQcQcG1jj
+name: Mass Invisibility
+type: spell
+_id: 3IFjQiHMrf1LoAXe
+img: systems/swords-wizardry/assets/game-icons-net/dark-squad.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 62 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '6'
+  range: 240 ft.
+  duration: See below
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432588059
+  modifiedTime: 1775449152049
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!3IFjQiHMrf1LoAXe'

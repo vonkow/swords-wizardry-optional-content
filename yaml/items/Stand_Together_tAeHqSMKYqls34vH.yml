@@ -1,0 +1,47 @@
+folder: lgqfrwuM3q3y2HKX
+name: Stand Together
+type: feature
+_id: tAeHqSMKYqls34vH
+img: systems/swords-wizardry/assets/game-icons-net/dwarf-face.svg
+system:
+  description: >-
+    <div class="page" title="Page 13">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Whenever a Dwarven Priest retains the service of a hireling who is of
+    dwarf ancestry, the upkeep and wage costs are reduced by 50%. Dwarven
+    hirelings (ordinary non-character-type NPCs, not hired Fighters) of a
+    Dwarven Priest fight with a +1 bonus to all attack rolls. They also receive
+    a +2 on all saving throws made to avoid abandoning or betraying their
+    service. Finally, the Dwarven Priest adds 1 to their maximum number of
+    special hirelings, as long as those hirelings are dwarves.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377579967
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!tAeHqSMKYqls34vH'

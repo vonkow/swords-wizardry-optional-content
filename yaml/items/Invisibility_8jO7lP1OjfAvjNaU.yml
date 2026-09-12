@@ -1,0 +1,29 @@
+folder: vU45tlBKSM7aeUlh
+name: Invisibility
+type: spell
+_id: 8jO7lP1OjfAvjNaU
+img: systems/swords-wizardry/assets/game-icons-net/invisible.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Magic-user spell of the same
+    name<em>.</em></p>
+  spellLevel: '2'
+  range: 240 ft.
+  duration: Until dispelled or an attack is made
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429667644
+  modifiedTime: 1775445567289
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!8jO7lP1OjfAvjNaU'

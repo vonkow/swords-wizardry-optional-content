@@ -1,0 +1,29 @@
+folder: vU45tlBKSM7aeUlh
+name: Detect Magic
+type: spell
+_id: O7KcRAnl8UbPh3f2
+img: systems/swords-wizardry/assets/game-icons-net/radar-cross-section.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 58 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '2'
+  range: 60 ft.
+  duration: 20 minutes
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429521578
+  modifiedTime: 1775445498119
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!O7KcRAnl8UbPh3f2'

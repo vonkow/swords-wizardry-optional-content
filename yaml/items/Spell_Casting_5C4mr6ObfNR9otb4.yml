@@ -1,0 +1,46 @@
+folder: kY7FzuSIT2X9iZBD
+name: Spell Casting
+type: feature
+_id: 5C4mr6ObfNR9otb4
+img: systems/swords-wizardry/assets/game-icons-net/oak-leaf.svg
+system:
+  description: >-
+    <div class="page" title="Page 7">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Beginning at 2nd level a Bard can prepare and cast spells in a manner
+    identical to the Druid class. Bards cast spells from the Druid spell list.
+    Each day the Bard selects and prays for a particular set of spells, choosing
+    any spells from the list. Once a spell is cast, it cannot be cast again
+    until the next day unless the Bard prepares (prays for) the spell more than
+    once.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377455610
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!5C4mr6ObfNR9otb4'

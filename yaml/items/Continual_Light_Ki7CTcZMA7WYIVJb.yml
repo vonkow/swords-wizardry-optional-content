@@ -1,0 +1,29 @@
+folder: YjA1CAQf0A5FQx72
+name: Continual Light
+type: spell
+_id: Ki7CTcZMA7WYIVJb
+img: systems/swords-wizardry/assets/game-icons-net/sundial.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 57 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '3'
+  range: 120 ft.
+  duration: Permanent until dispelled
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429904301
+  modifiedTime: 1775446164630
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!Ki7CTcZMA7WYIVJb'

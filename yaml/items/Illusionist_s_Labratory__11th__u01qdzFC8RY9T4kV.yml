@@ -1,0 +1,53 @@
+folder: bqOlZH4c07JBbblf
+name: Illusionist's Labratory (11th)
+type: feature
+_id: u01qdzFC8RY9T4kV
+img: systems/swords-wizardry/assets/game-icons-net/orrery.svg
+system:
+  description: >-
+    <div class="page" title="Page 18">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When an Illusionist reaches 11th level they earn the title of Grand
+    Illusionist and can build a personal tower where they can study the strange
+    arcane theories surrounding illusion magic. While few sane folks would dare
+    live so close to a power eccentric prestidigitator, the Grand Illusionist
+    may draw the service of a young apprentice Illusionist, a handful of strange
+    fey creatures, or even a truly reckless thief. The exact nature of the
+    followers who arrive is dependent on exactly where the Illusionist builds
+    their laboratory and how they interact with the surrounding land and its
+    residents.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377632332
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!u01qdzFC8RY9T4kV'

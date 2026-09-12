@@ -1,0 +1,46 @@
+folder: kY7FzuSIT2X9iZBD
+name: Saving Throw Bonus
+type: feature
+_id: YsIfFnlYjhrbVSfv
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <div class="page" title="Page 8">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Bards gain a +2 bonus on all saving throws made to resist spells and
+    spell-like effects.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377445548
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!YsIfFnlYjhrbVSfv'

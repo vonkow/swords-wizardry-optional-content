@@ -1,0 +1,20 @@
+type: Item
+folder: uCidXhApDxztN40e
+name: Level 1
+color: null
+sorting: a
+_id: EZpdDtDMNTCMLaCQ
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775428871653
+  modifiedTime: 1775428871653
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!EZpdDtDMNTCMLaCQ'

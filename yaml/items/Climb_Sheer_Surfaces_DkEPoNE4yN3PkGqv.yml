@@ -1,0 +1,165 @@
+folder: QkjUebInbrkGK4Ip
+name: Climb Sheer Surfaces
+type: feature
+_id: DkEPoNE4yN3PkGqv
+img: systems/swords-wizardry/assets/game-icons-net/mountain-climbing.svg
+system:
+  description: >-
+    <div class="page" title="Page 6">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This percentage chance is what the Barbarian needs to climb a wall that
+    others cannot climb. If the wall is&nbsp;more difficult than normal (very
+    slippery, for example), the Referee&nbsp;may lower a Barbarian &rsquo;s
+    chances of success. In general, if a normal person has a chance to climb a
+    wall, a Barbarian can most likely do&nbsp;it automatically.</p>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Climb Sheer Surfaces</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>87%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>88%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>88%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>89%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>90%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>91%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>92%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>93%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>94%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>95%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>96%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>96%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13+</td>
+
+    <td>Stays at 96%</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d100
+  target: '87'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377370343
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!DkEPoNE4yN3PkGqv'

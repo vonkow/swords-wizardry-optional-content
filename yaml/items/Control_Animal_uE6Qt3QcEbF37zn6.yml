@@ -1,0 +1,45 @@
+folder: zODnkB5CMYZymAzU
+name: Control Animal
+type: spell
+_id: uE6Qt3QcEbF37zn6
+img: systems/swords-wizardry/assets/game-icons-net/jumping-dog.svg
+system:
+  description: >-
+    <p>This spell may be cast on a single normal animal or a giant version of a
+    normal animal. The animal must have some rudimentary intelligence, so it
+    does not ordinarily work on insects or other non-mammals. This determination
+    is up to the Referee. The author would consider giant spiders to have
+    rudimentary intelligence, but not giant centipedes, so that’s a good example
+    of how subjective the spell’s interpretation can be. If in doubt, feel free
+    to only apply the spell to mammals.</p><p>If the animal fails a saving
+    throw, it will follow the caster’s commands and, for the duration of the
+    spell, be able to understand these commands (although the caster does not
+    automatically gain the ability to understand the animal; the communication
+    is one-way).</p><p class="p1">Note: This spell is a bit similar to the
+    druidic spell Charm Person or Mammal, from First Edition AD&D, but there are
+    significant differences. It only affects animals, it has a shorter duration,
+    and it includes the “communication” component. It’s a valid choice to use
+    the AD&D spell instead, but since the Druid has access to all spells it
+    would be wise to definitely choose one or the other for expanding the
+    druidic spell repertoire.</p>
+  spellLevel: '2'
+  range: 80 ft.
+  duration: 24 hours
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775428926708
+  modifiedTime: 1789239570869
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!uE6Qt3QcEbF37zn6'

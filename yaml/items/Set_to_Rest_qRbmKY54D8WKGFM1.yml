@@ -1,0 +1,32 @@
+folder: 1MVPskZ7m6kUM7Up
+name: Set to Rest
+type: spell
+_id: qRbmKY54D8WKGFM1
+img: systems/swords-wizardry/assets/game-icons-net/grave-flowers.svg
+system:
+  description: >-
+    <p>This spell can only be cast on a corpse or bodily remains. Once this
+    spell has been cast, the target can never be returned to life as an undead
+    creature by any means short of a <em>Defiling Touch </em>or <em>Wish.
+    </em>The corpse could still be restored to a living state through other
+    spells like <em>Raise Dead</em> or <em>Reincarnation.</em></p>
+  spellLevel: '2'
+  range: Touch
+  duration: Permanent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433265421
+  modifiedTime: 1775449693089
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!qRbmKY54D8WKGFM1'

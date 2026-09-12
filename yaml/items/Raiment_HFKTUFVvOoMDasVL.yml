@@ -1,0 +1,49 @@
+folder: QA8alBTGHPhsmNsn
+name: Raiment
+type: feature
+_id: HFKTUFVvOoMDasVL
+img: systems/swords-wizardry/assets/game-icons-net/cavalry.svg
+system:
+  description: >-
+    <div class="page" title="Page 10">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>A Chivalric Knight begins play with the following equipment for free,
+    provided as a gift from their liege: a riding horse, a saddle, saddle bags,
+    a lance, a long sword, a heavy mace, a dagger, a suit of chainmail armor,
+    and a shield. If lost or damaged beyond repair, a Knight can request a
+    replacement from their liege.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377501223
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!HFKTUFVvOoMDasVL'

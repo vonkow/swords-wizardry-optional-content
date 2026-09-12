@@ -1,0 +1,36 @@
+folder: VLBK6RTa0FsTYVh7
+name: Charm Undead
+type: spell
+_id: ttK73CQRBgIwtrTg
+img: systems/swords-wizardry/assets/game-icons-net/stoned-skull.svg
+system:
+  description: >-
+    <p>This spell can be cast on any single undead creature, corporeal or
+    incorporeal, sentient or mindless, regardless of their hit dice. Mindless
+    undead creatures receive no saving throw to resist the spell, but
+    intelligent undead creatures may make a saving throw to overcome the
+    effects. Intelligent undead creatures receive a new saving throw to break
+    free of the spell every day at midnight. Any undead creature, mindless or
+    intelligent, can be set free from its effects by a <em>Dispel Magic
+    </em>spell.</p>
+  spellLevel: '4'
+  range: 120 ft.
+  duration: Special, or until dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433554368
+  modifiedTime: 1789238762947
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!ttK73CQRBgIwtrTg'

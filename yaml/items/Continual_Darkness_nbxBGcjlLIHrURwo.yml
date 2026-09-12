@@ -1,0 +1,31 @@
+folder: YjA1CAQf0A5FQx72
+name: Continual Darkness
+type: spell
+_id: nbxBGcjlLIHrURwo
+img: systems/swords-wizardry/assets/game-icons-net/sight-disabled.svg
+system:
+  description: >-
+    <p>The targeted person or object is surrounded by a globe that cannot be
+    penetrated by any light, mundane or magical, to a radius of 120 feet.
+    Characters unable to see through darkness are effectively blind while within
+    this globe.</p>
+  spellLevel: '3'
+  range: 120 ft.
+  duration: Permanent until dispelled
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429875014
+  modifiedTime: 1775446144839
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!nbxBGcjlLIHrURwo'

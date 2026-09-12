@@ -1,0 +1,51 @@
+folder: 1PQLBgkYua5ewGfF
+name: Severed Hand
+type: spell
+_id: TIwrEYLulc52wVP9
+img: systems/swords-wizardry/assets/game-icons-net/severed-hand.svg
+system:
+  description: >-
+    <div class="page" title="Page 45">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell causes a semi-corporeal severed hand to appear floating next
+    to the caster. The hand will follow the caster&rsquo;s mental commands out
+    to the spell&rsquo;s maximum range. The hand flies with the same movement
+    rate as the caster&rsquo;s normal movement. The hand cannot lift objects or
+    manipulate the physical world, save to make a melee attack as if they were
+    the caster themselves. This attack from the spectral hand inflicts 1d4
+    damage. Alternatively, the caster can channel any spell they know with a
+    range of &ldquo;Touch&rdquo; through the hand, allowing them to cast such
+    spells at targets from a great distance. The spectral hand is immune to
+    damage from mundane weapons, but is destroyed if targeted by a spell or if
+    attacked by someone using a magical weapon. Such attacks made to strike the
+    hand must hit AC 3 [16].</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 240 ft.
+  duration: 1 round, plus one round per level of the caster
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660278739
+  modifiedTime: 1723660339130
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!TIwrEYLulc52wVP9'

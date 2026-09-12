@@ -1,0 +1,44 @@
+folder: QA8alBTGHPhsmNsn
+name: Destined for Glory
+type: feature
+_id: lvppgGGiae2NQkVe
+img: systems/swords-wizardry/assets/game-icons-net/rear-aura.svg
+system:
+  description: >-
+    <div class="page" title="Page 9">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>The Chivalric Knight bears a touch of destiny: born heroes, renowned
+    tournament heroes, or vilified warlords. They stand tall where others
+    falter, face fear and death but give no quarter, and seem ready to challenge
+    the impossible.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377474994
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!lvppgGGiae2NQkVe'

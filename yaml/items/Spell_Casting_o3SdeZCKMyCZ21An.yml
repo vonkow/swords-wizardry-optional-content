@@ -1,0 +1,51 @@
+folder: bqOlZH4c07JBbblf
+name: Spell Casting
+type: feature
+_id: o3SdeZCKMyCZ21An
+img: systems/swords-wizardry/assets/game-icons-net/magick-trick.svg
+system:
+  description: >-
+    <div class="page" title="Page 17">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Like the Magic-User, an Illusionist owns a book of spells, which does not
+    necessarily include all of the spells on the Illusionist spell list. Reading
+    from this book, Illusionists force selected spell formulae into their minds,
+    &ldquo;preparing&rdquo; as many spells as the Illusionist can mentally
+    sustain. (It is possible to prepare a spell multiple times using the
+    available &ldquo;slots&rdquo; in the Illusionist&rsquo;s memory and mental
+    capability.) Once a prepared spell is cast, it disappears from the
+    Illusionist&rsquo;s ability to cast, until it is prepared again. If an
+    Illusionist finds scrolls of spells (either Illusionist spells or Magic-User
+    spells that are also part of the Illusionist spell list) while adventuring,
+    these spells can be added to the Illusionist&rsquo;s spellbook.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377647267
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!o3SdeZCKMyCZ21An'

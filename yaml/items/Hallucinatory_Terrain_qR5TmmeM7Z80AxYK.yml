@@ -1,0 +1,29 @@
+folder: YjA1CAQf0A5FQx72
+name: Hallucinatory Terrain
+type: spell
+_id: qR5TmmeM7Z80AxYK
+img: systems/swords-wizardry/assets/game-icons-net/hills.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 60 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '3'
+  range: 240 ft.
+  duration: Until touched (other than by ally) or dispelled
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775430025076
+  modifiedTime: 1775446463025
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!qR5TmmeM7Z80AxYK'

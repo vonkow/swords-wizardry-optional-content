@@ -1,0 +1,35 @@
+folder: VLBK6RTa0FsTYVh7
+name: Ghoul Touch
+type: spell
+_id: x10u9YWTnbHK1QTH
+img: systems/swords-wizardry/assets/game-icons-net/moon-claws.svg
+system:
+  description: >-
+    <p>For the duration of this spell, the caster’s hands become boney,
+    claw-like, and reak of rotting flesh. The caster can make two attacks per
+    combat round with them, each attack inflicting 1d3 damage. Anyone struck by
+    these attacks must make a saving throw or be paralyzed for 3d6 turns. Elves
+    are immune to this paralysis.</p>
+  spellLevel: '4'
+  range: Caster
+  duration: 1d4 rounds, plus one round per level of the Necromancer
+  requiresSave: true
+  formula: 1d3
+  effectType: damage
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433640802
+  modifiedTime: 1789238732944
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!x10u9YWTnbHK1QTH'

@@ -1,0 +1,33 @@
+folder: mxyw6iUPWYNODqbX
+name: Stygian Saving Throw Bonus
+type: feature
+_id: FXRPreeIeKszMKS3
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <p>With a mind as hard as stone and a resolve as sharp as steel, Stygians
+    receive a +2 bonus on all saving throws made to resist fear-based and
+    mind-influencing spells like <em>charm person</em> and <em>confusion</em>.
+    They are, however, still as susceptible as other ancestries to illusion
+    magic.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377323237
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!FXRPreeIeKszMKS3'

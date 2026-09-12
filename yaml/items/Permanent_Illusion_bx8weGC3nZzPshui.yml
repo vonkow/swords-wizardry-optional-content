@@ -1,0 +1,30 @@
+folder: IgLrhqTEQcQcG1jj
+name: Permanent Illusion
+type: spell
+_id: bx8weGC3nZzPshui
+img: systems/swords-wizardry/assets/game-icons-net/3d-meeple.svg
+system:
+  description: >-
+    <p>This spell functions exactly like <em>Spectral Force</em>, except that it
+    is not dissipated when touched and is permanent until dispelled.</p>
+  spellLevel: '6'
+  range: 240 ft.
+  duration: Permanent, until dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775432662027
+  modifiedTime: 1789239195554
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!bx8weGC3nZzPshui'

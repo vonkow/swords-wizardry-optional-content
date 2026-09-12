@@ -1,0 +1,34 @@
+folder: rDFrgAjWi1dkrqr1
+name: Vision
+type: spell
+_id: EgSz06A1F5s2YAiu
+img: systems/swords-wizardry/assets/game-icons-net/abstract-034.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist stretches their psyche across
+    the cosmos to get the answer to a question that is vexing them. When this
+    spell is cast, the Illusionist rolls 2d6. On a 2-6 they are stricken with a
+    <em>Quest</em> (per the spell of the same name found on page 67 of
+    <em>Swords & Wizardry Complete, Revised</em>) and receive no proper answer.
+    On a 7-9 they receive useful information that may or may not be related to
+    their question. On a 10 or higher, their question is answered honestly.</p>
+  spellLevel: '7'
+  range: Caster
+  duration: 1 Round
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432952383
+  modifiedTime: 1775449482627
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!EgSz06A1F5s2YAiu'

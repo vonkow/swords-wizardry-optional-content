@@ -1,0 +1,33 @@
+folder: GThK2jfqAD9ihHMk
+name: Danse Macabre
+type: spell
+_id: MjLw8XPqvKofpGm4
+img: systems/swords-wizardry/assets/game-icons-net/triple-skulls.svg
+system:
+  description: >-
+    <p>When this spell is cast, all mindless, corporeal undead creatures within
+    120 feet that have 4 or fewer hit dice must make a saving throw. If they
+    fail, they regard the Necromancer as their ally and master and follow their
+    commands until a <em>Dispel Magic </em>spell is cast on them or until
+    they’re slain.</p>
+  spellLevel: '5'
+  range: 120 ft. radius, centered on caster
+  duration: Until Dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433773121
+  modifiedTime: 1789238681711
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!MjLw8XPqvKofpGm4'

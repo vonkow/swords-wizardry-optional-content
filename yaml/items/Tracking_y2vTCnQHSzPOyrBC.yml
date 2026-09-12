@@ -1,0 +1,79 @@
+folder: QkjUebInbrkGK4Ip
+name: Tracking
+type: feature
+_id: y2vTCnQHSzPOyrBC
+img: systems/swords-wizardry/assets/game-icons-net/footsteps.svg
+system:
+  description: >-
+    <div class="page" title="Page 5">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Barbarians are able to track down other creatures in the wild, in cities,
+    and even through underground passages.</p>
+
+    <ul>
+
+    <li><em>Outdoor Tracking:</em> Outdoors, the basic chance for successful
+    tracking (on a day-to-day basis) is 90%, modified by a &ndash;10% for each
+    day old the tracks are, and modified by &ndash;10% (for the entire effort
+    thereafter) for each day of rain (or snow) that has fallen on the
+    trail.</li>
+
+    <li><em>Underground and City Tracking: </em>Tracking in the city (any urban
+    or populated area) or underground makes it considerably harder to find and
+    follow a trail. First, the beginning of the trail must be no more than an
+    hour old. The base chance to track is still 90%, but each time the trail
+    changes (as described below), there is a chance for the Barbarian to lose
+    the trail and be unable to track it further; that is, the Barbarian cannot
+    pick up the trail even by circling the area where the trail was lost. The
+    circumstances under which the prey can &ldquo;lose&rdquo; the Barbarian are
+    as follows:&nbsp;
+
+    <ul>
+
+    <li><strong>Turns down a side passage:</strong> 25% chance to lose
+    trail</li>
+
+    <li><strong>Goes through a door:</strong> 35% chance to lose trail</li>
+
+    <li><strong>Goes up or down through a trapdoor or ladder:</strong> 40%
+    chance to lose trail</li>
+
+    <li><strong>Climbs a wall up or down (including pits and
+    shafts):</strong><br>50% chance to lose trail</li>
+
+    </ul>
+
+    </li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d100
+  target: '90'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377412052
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!y2vTCnQHSzPOyrBC'

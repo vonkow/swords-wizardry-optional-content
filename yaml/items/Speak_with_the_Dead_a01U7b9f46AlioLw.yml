@@ -1,0 +1,40 @@
+folder: hh5pRxadGcH7ROzC
+name: Speak with the Dead
+type: spell
+_id: a01U7b9f46AlioLw
+img: systems/swords-wizardry/assets/game-icons-net/morbid-humour.svg
+system:
+  description: >-
+    <p>The caster can ask three questions of a corpse, and it will answer,
+    although the answers might be cryptic. Only higher-level Demon Hunters have
+    enough spiritual power to command answers of long-dead corpses. Demon
+    Hunters lower than 8th level can gain answers only from bodies that have
+    been dead 1d4 days. Demon Hunters of levels 8–14 can speak to corpses that
+    have been dead 1d4 months. Demon Hunters of level 15+ can gain answers from
+    a corpse of any age, including thousand-year-old relics, as long as the body
+    is still relatively intact. Note that a die roll is involved here. For
+    example, a 7th-level Demon Hunter attempting to speak with a two-day-old
+    corpse might still fail — the d4 roll might indicate that only a one-day-old
+    corpse can be reached with this particular attempt at the spell.</p><p
+    class="p1">This spell is identical to the third-level Cleric spell of the
+    same name, and can be copied from a Clerical scroll by a Demon Hunter.</p>
+  spellLevel: '4'
+  range: Close/Touch (Referee's discretion)
+  duration: 3 questions
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741565624858
+  modifiedTime: 1741567440535
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!a01U7b9f46AlioLw'

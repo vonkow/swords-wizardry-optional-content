@@ -1,0 +1,50 @@
+folder: EHwOyfl5we5NCwHO
+name: Astral Misstep
+type: spell
+_id: QMs1eN8NJQvMHHNM
+img: systems/swords-wizardry/assets/game-icons-net/extra-time.svg
+system:
+  description: >-
+    <p>The Warlock selects one target within 60 feet who is native to the
+    Material Plane who must make a saving throw. If that saving throw fails, the
+    target appears to blink out of existence for a mere instant before
+    reappearing. However, to the target, they experience time stretch and twist
+    as they are taken into an extraplanar realm. Any on-going effect (such as a
+    spell, a Wrath-chanter’s rage, or any effect that has a duration) “loses” a
+    number of turns equal to the caster’s level. During their “time” in the
+    demi-plane, the victim is disoriented and cannot act. So, for example, a
+    target of an Astral Misstep cast by a 12th level Warlock would experience 12
+    turns (2 hours) in that pocket dimension, but to everyone on the Material
+    Plane, the victim would disappear and reappear instantly. If that same
+    victim had a <em>Protection from Evil</em> spell cast on them just before
+    being targeted by an <em>Astral Misstep</em> because they “lost” two hours
+    in the pocket dimension, they would no longer benefit from that spell since
+    a <em>Protection from Evil </em>spell has a 2 hour duration. The spell also
+    has an additional effect detailed below, based on the alignment of the
+    Warlock.</p><ul><li><p class="p2"><em>Chaos: </em>Target suffers one point
+    of damage for each turn they spent in the demi-plane.</p></li><li><p
+    class="p2"><em>Law:</em> Target heals one point of damage for each turn they
+    spent in the demi-plane.</p></li><li><p class="p2"><em>Neutrality</em>:
+    Target returns to the Material Plane with a +1 to all saving throws for a
+    number of rounds equal to the level of the Warlock.</p></li></ul>
+  spellLevel: '2'
+  range: 60 ft.
+  duration: Instant (See Below)
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741568371699
+  modifiedTime: 1789237880613
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!QMs1eN8NJQvMHHNM'

@@ -1,0 +1,55 @@
+folder: DlFVXIGOavcPvho0
+name: Hypnotism
+type: spell
+_id: wP91J66me4CJaM9S
+img: systems/swords-wizardry/assets/game-icons-net/spiral-lollipop.svg
+system:
+  description: >-
+    <div class="page" title="Page 38">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell may only be cast at a single target within 80 feet of the
+    caster. The target must be able to look the caster in the eyes and can only
+    affect living bipeds of human size or smaller. If the victim fails a saving
+    throw vs. spells (made with a +2 bonus), then the caster can give them one
+    command which they will immediately attempt to carry out. Any command short
+    of suicide may be given, but if the implanted suggestion goes against the
+    victim&rsquo;s alignment, personal ideology, or would put them in mortal
+    danger they receive a new saving throw the moment before they carry out the
+    action (also made with a +2 bonus) to end the spell&rsquo;s effects. The
+    spell&rsquo;s effects also end immediately after they have carried out the
+    Illusionist&rsquo;s edict.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 80 ft.
+  duration: Special
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1723659089469
+  modifiedTime: 1789239510395
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!wP91J66me4CJaM9S'

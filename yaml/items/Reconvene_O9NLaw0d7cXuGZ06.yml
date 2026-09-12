@@ -1,0 +1,57 @@
+folder: zu57qy8kotpKFTtO
+name: Reconvene
+type: spell
+_id: O9NLaw0d7cXuGZ06
+img: systems/swords-wizardry/assets/game-icons-net/cement-shoes.svg
+system:
+  description: >-
+    <p>The Warlock touches one willing target when this spell is cast. For a
+    number of days equal to the Warlock’s level, the target can, with a mental
+    command, call out to the Warlock across any distance. The Warlock is not
+    obligated to respond, but if they do then the Warlock can leave their body
+    and instantly teleport to within 10 feet of the target in a semi-physical
+    form. The Warlock appears to the target in a ghostly, translucent shape, and
+    perceives the new environment as if physically present. The translucent form
+    is able to speak and be heard.</p><p class="p1">In addition, any item the
+    Warlock is carrying on their physical body can be magically given to the
+    target for the duration of this spell as if the Warlock were wholly and
+    physically present. Finally, the Warlock can even cast spells (though they
+    cannot attack or otherwise physically engage with the world) while in this
+    semi-physical state, though other effects may apply based on the Warlock’s
+    alignment as detailed below. While a Warlock is in this semi-physical form,
+    their physical body remains inert and unaware of its surroundings as if in a
+    coma. This spell only lasts three rounds and is instantly ended if the
+    target is slain or the target of a <em>Dispel Magic </em>spell. If the
+    target does not activate this effect within a number of days equal to the
+    Warlock’s level, they cannot do so unless the spell is cast upon them
+    again.</p><ul><li><p class="p2"><em>Chaos:</em> Chaotic Warlocks appear as
+    horrific ghosts or shadows when appearing in semi-corporeal form. Any
+    creatures of 2 hit die or less who see this form must make a saving throw or
+    flee this poltergeist for 1d4 rounds.</p></li><li><p
+    class="p2"><em>Law:</em> Lawful Warlocks appear as angelic messengers,
+    inspiring those around them. All Lawul characters and extraplanar beings
+    that see the Lawful Warlock’s incorporeal form receive a +2 to all saving
+    throws for 1d4 rounds.</p></li><li><p class="p2"><em>Neutrality:</em>
+    Neutral Warlocks are invisible and silent to everyone but the target of
+    <em>Reconvene</em> unless they perform a substantial act, such as casting a
+    spell.</p></li></ul>
+  spellLevel: '4'
+  range: Touch
+  duration: 3 rounds
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568591526
+  modifiedTime: 1741574577261
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!O9NLaw0d7cXuGZ06'

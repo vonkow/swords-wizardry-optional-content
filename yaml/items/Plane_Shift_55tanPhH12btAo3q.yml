@@ -1,0 +1,31 @@
+folder: bOcbrJQoyLPvvkr1
+name: Plane Shift
+type: spell
+_id: 55tanPhH12btAo3q
+img: systems/swords-wizardry/assets/game-icons-net/vortex.svg
+system:
+  description: >-
+    <p>The caster and anyone joining hands with them in a circle are transported
+    to a different plane of existence, designated by the caster. An unwilling
+    target of the spell is allowed a saving throw to negate the effect.</p>
+  spellLevel: '5'
+  range: Touch
+  duration: Immediate
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775428809777
+  modifiedTime: 1789239746191
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!55tanPhH12btAo3q'

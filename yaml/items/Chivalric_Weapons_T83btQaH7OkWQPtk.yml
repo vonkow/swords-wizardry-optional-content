@@ -1,0 +1,50 @@
+folder: QA8alBTGHPhsmNsn
+name: Chivalric Weapons
+type: feature
+_id: T83btQaH7OkWQPtk
+img: systems/swords-wizardry/assets/game-icons-net/mounted-knight.svg
+system:
+  description: >-
+    <div class="page" title="Page 10">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When fighting from horseback, the Chivalric Knight receives a +2 bonus on
+    all attack rolls as long as they are wielding a longsword, mace, or lance.
+    This bonus is reduced to +1 when fighting on foot. In addition, when making
+    a melee attack with a lance while mounted, if that mount has already moved
+    at least 30 feet during the combat round, the lance inflicts double damage
+    on a successful attack.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377470465
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!T83btQaH7OkWQPtk'

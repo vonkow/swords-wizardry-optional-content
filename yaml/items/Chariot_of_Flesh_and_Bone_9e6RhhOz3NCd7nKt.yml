@@ -1,0 +1,47 @@
+folder: zu57qy8kotpKFTtO
+name: Chariot of Flesh and Bone
+type: spell
+_id: 9e6RhhOz3NCd7nKt
+img: systems/swords-wizardry/assets/game-icons-net/telepathy.svg
+system:
+  description: >-
+    <p>This spell can only be cast on a single, willing target. The target must
+    be a living sentient being. For the duration of this spell when the caster
+    closes their eyes and concentrates, they can experience whatever target is
+    experiencing. They see, hear, taste, smell, touch, through the target’s
+    senses regardless of the distance between the two. The caster can even read
+    the target’s thoughts and is capable of telepathically communicating with
+    the target. The caster cannot control the target, but is instead “riding
+    along” inside the target’s body. If the target is under mind-influencing
+    spells, the caster will sense something is not quite right, but does not
+    know exactly what has happened. If the target is slain, the caster
+    immediately suffers 3d6 damage and the connection is severed.</p><ul><li><p
+    class="p2"><em>Chaos:</em> While a Chaotic Warlock is looking through the
+    senses of this spell’s target, that target also gains darkvision to a range
+    of 30 feet, but the whites of their eyes fill with an inky
+    blackness.</p></li><li><p class="p2"><em>Law:</em> While a Lawful Warlock is
+    hearing through the senses of this spell’s target, that target can only be
+    surprised on a 1 on 1d6, but the target’s eyes glow with a faint, barely
+    visible white light.</p></li><li><p class="p2"><em>Neutrality</em>: While a
+    Neutral Warlock is hearing through the senses of this spell’s target, that
+    target receives a +1 bonus to all saving throws.</p></li></ul>
+  spellLevel: '4'
+  range: Special
+  duration: 1 hour per level of the caster
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568555084
+  modifiedTime: 1741573664091
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!9e6RhhOz3NCd7nKt'

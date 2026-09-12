@@ -1,0 +1,55 @@
+folder: fwgVmUV2JC9JRRLd
+name: Planar Shield
+type: spell
+_id: yjI88syeMpDcVkmt
+img: systems/swords-wizardry/assets/game-icons-net/energy-shield.svg
+system:
+  description: >-
+    <div class="page" title="Page 49">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell creates a magical barrier around the caster, granting them an
+    Armor Class of 4 [15] for the duration.</p>
+
+    <ul>
+
+    <li>Chaos: Chaotic Warlocks also receive a +1 bonus to attack rolls.</li>
+
+    <li><em>Law:</em> Lawful Warlocks also receive a +1 bonus to all saving
+    throws.</li>
+
+    <li><em style="font-family: var(--font-primary); font-size:
+    0.875rem;">Neutrality:</em><span style="font-family: var(--font-primary);
+    font-size: 0.875rem;"> Neutral Warlocks also increase their base Movement
+    speed by +10 feet.</span></li>
+
+    </ul>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: Caster
+  duration: 2 turns
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723660855026
+  modifiedTime: 1723660924085
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!yjI88syeMpDcVkmt'

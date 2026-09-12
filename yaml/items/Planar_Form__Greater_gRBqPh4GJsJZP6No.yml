@@ -1,0 +1,53 @@
+folder: PG8Oy96UyWUXajPM
+name: Planar Form, Greater
+type: spell
+_id: gRBqPh4GJsJZP6No
+img: systems/swords-wizardry/assets/game-icons-net/angel-wings.svg
+system:
+  description: >-
+    <p>The Warlock literally draws the very essence of the planes of reality
+    into their body, using it as a physical conduit to the planes of law, chaos,
+    and neutrality. For the duration of this spell the caster receives benefits
+    detailed below, based on their alignment.</p><ul><li><p class="p2"><em>All
+    Warlocks:</em> All Warlocks, regardless of alignment, sprout a pair of
+    large, incorporeal wings that allow them to fly at the same speed as their
+    normal land speed.</p></li><li><p class="p2"><em>Chaos:</em> The Warlock’s
+    body becomes enshrouded in flickering tendrils of darkness. Any time they
+    are struck by a ranged or melee attack from a Lawful character or a weapon
+    with a Lawful alignment, these black tendrils lash out at the attacker,
+    inflicting 1d8+1 per level of the Warlock. The victim may make a saving
+    throw to reduce the damage by one-half. They are immune to damage from
+    mundane weapons unless those weapons are wielded by a Lawful Cleric or
+    Paladin.</p></li><li><p class="p1"><em>Law:</em> The Warlock’s body becomes
+    wreathed in blazing white flames. Any time they are struck by a ranged or
+    melee attack from a Chaotic character or a weapon with a Chaotic alignment,
+    these flames flair out at the attacker, inflicting 1d8+1 per level of the
+    Warlock. The victim may make a saving throw to reduce the damage by
+    one-half. They are immune to damage from mundane weapons unless those
+    weapons are wielded by an extraplanar being of Chaotic
+    alignment.</p></li><li><p class="p1"><em>Neutrality:</em> The Warlock’s body
+    is wrapped in a strange, dancing fog. Each time they are struck by a Lawful
+    or Chaotic character or a weapon that is Lawful or Chaotic in alignment in
+    ranged or melee combat the attacker must make a saving throw or immediately
+    become blind, deaf and mute until they can receive a <em>Remove Curse
+    </em>spell. They are immune to damage from mundane weapons.</p></li></ul>
+  spellLevel: '5'
+  range: Caster
+  duration: 2 rounds, plus 1 round per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568668491
+  modifiedTime: 1741571800057
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!gRBqPh4GJsJZP6No'

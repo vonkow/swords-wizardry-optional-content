@@ -1,0 +1,36 @@
+folder: iPeFXB4L4ElceSO6
+name: Plane Shift
+type: spell
+_id: RiqCTvQeWKOZijtf
+img: systems/swords-wizardry/assets/game-icons-net/vortex.svg
+system:
+  description: >-
+    <p>The caster and anyone joining hands with them in a circle are transported
+    to a different plane of existence. An unwilling target of the spell is
+    allowed a saving throw to negate the effect. This spell is ordinarily used
+    by Demon Hunters to enter different material planes of existence, or perhaps
+    the elemental or ethereal planes. Most Demon Hunters consider their job to
+    be a protective one, stopping demonic activity in the places where demons
+    don’t belong. Most Demon Hunters agree that the idea of attacking demons in
+    the lower planes is a pipe-dream of drunken paladins.</p>
+  spellLevel: '5'
+  range: Touch
+  duration: Immediate
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741565670235
+  modifiedTime: 1789239587481
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!RiqCTvQeWKOZijtf'

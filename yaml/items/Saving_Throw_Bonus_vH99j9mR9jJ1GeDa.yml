@@ -1,0 +1,30 @@
+folder: I1IR7yZSPaBi9PEc
+name: Saving Throw Bonus
+type: feature
+_id: vH99j9mR9jJ1GeDa
+img: modules/swords-wizardry-content/images/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <p>Troubadours have a +1 bonus on all saving throws that affect the mind,
+    and a +1 bonus on saving throws versus devices (as per a Thief).</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1723314636586
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!vH99j9mR9jJ1GeDa'

@@ -1,0 +1,373 @@
+folder: kY7FzuSIT2X9iZBD
+name: Oratory
+type: feature
+_id: s6M8oLlfKnbLvmXe
+img: systems/swords-wizardry/assets/game-icons-net/public-speaker.svg
+system:
+  description: >-
+    <div class="page" title="Page 7">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Bards are master storytellers and can use their gifts of rhyme, spoken
+    word, and song to captivate an audience. The Bard must be able to speak and
+    continue speaking for this ability to remain in effect. They can target any
+    number of targets who understand the language they are speaking who are
+    within 60 feet. While under the effects of a Bard&rsquo;s Oratory ability,
+    victims do nothing but listen to the Bard&rsquo;s tale if the Bard rolls
+    equal to or under their Oratory percentage, though significant distractions
+    (ranging from loud noises to being attacked) automatically end this effect.
+    While the victim is under the effects of this ability the Bard can weave a
+    story that will implant a Suggestion (per the spell) in the minds of those
+    listening. Only one shared Suggestion can be planted in the mind of the
+    victims hearing the story and they may make a saving throw vs. spells to
+    resist this effect. Strong-willed individuals and truly strange creatures
+    are less susceptible to the bard&rsquo;s Oratory, with their chance of
+    success reduced as defined on the table below. Creatures immune to
+    mind-influencing magic are immune to a Bard&rsquo;s Oratory.</p>
+
+    <h2>Oratory Modifier Table</h2>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Creature Type</strong></td>
+
+    <td><strong>Charm Modifier</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>Humanoids and most monsters</td>
+
+    <td>
+
+    <div class="page" title="Page 7">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>-5% per hit die or level over 4. (i.e -5% at 5th level/5 HD, -10% at 6th
+    level/6 HD)</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </td>
+
+    </tr>
+
+    <tr>
+
+    <td>
+
+    <div class="page" title="Page 7">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Monks</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </td>
+
+    <td>
+
+    <div class="page" title="Page 7">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>-10% per hit die of the monk</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </td>
+
+    </tr>
+
+    <tr>
+
+    <td>
+
+    <div class="page" title="Page 7">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Undead</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </td>
+
+    <td>
+
+    <div class="page" title="Page 7">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>-10% per hit die of the undead creature</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    <h2>Oratory Advancement Table</h2>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Lore</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>10%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>20%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>30%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>40%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>50%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>60%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>70%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>80%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>90%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>100%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>110%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>120%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13</td>
+
+    <td>130%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>14</td>
+
+    <td>140%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>15</td>
+
+    <td>150%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>16</td>
+
+    <td>160%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>17</td>
+
+    <td>170%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>18</td>
+
+    <td>180%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>19</td>
+
+    <td>190%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>20</td>
+
+    <td>200%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>21+</td>
+
+    <td>+10%/level</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: d100
+  target: '10'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377440909
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!s6M8oLlfKnbLvmXe'

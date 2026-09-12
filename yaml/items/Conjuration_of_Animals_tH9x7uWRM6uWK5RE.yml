@@ -1,0 +1,29 @@
+folder: IgLrhqTEQcQcG1jj
+name: Conjuration of Animals
+type: spell
+_id: tH9x7uWRM6uWK5RE
+img: systems/swords-wizardry/assets/game-icons-net/elephant-head.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the Druid spell of the same name found
+    on page 56 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '6'
+  range: 30 ft.
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432558766
+  modifiedTime: 1775449219367
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!tH9x7uWRM6uWK5RE'

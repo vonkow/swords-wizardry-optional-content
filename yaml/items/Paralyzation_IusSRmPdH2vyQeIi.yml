@@ -1,0 +1,33 @@
+folder: YjA1CAQf0A5FQx72
+name: Paralyzation
+type: spell
+_id: IusSRmPdH2vyQeIi
+img: systems/swords-wizardry/assets/game-icons-net/ghost-ally.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist can paralyze a number of hit
+    dice (or levels) worth of creatures equal to twice their level. Those who
+    fail their saving throw are paralyzed and unable to move until the
+    Illusionist releases them from the effect or until the victim has either
+    <em>Dispel Magic</em> or <em>Remove Curse </em>cast upon them.</p>
+  spellLevel: '3'
+  range: 180 ft.
+  duration: Permanent, until dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775430189782
+  modifiedTime: 1789239388185
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!IusSRmPdH2vyQeIi'

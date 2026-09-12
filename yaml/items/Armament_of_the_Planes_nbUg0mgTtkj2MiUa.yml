@@ -1,0 +1,42 @@
+folder: EHwOyfl5we5NCwHO
+name: Armament of the Planes
+type: spell
+_id: nbUg0mgTtkj2MiUa
+img: systems/swords-wizardry/assets/game-icons-net/heart-armor.svg
+system:
+  description: >-
+    <p>The caster drapes themselves in arms and armor conjured from the plane to
+    which they are bound. This includes a suit of weightless, magical armor and
+    a melee weapon for which they have an uncanny proficiency. Each weapon and
+    suit of armor is detailed below, based on the caster’s alignment. Regardless
+    of the weapon conjured, the caster receives a +3 bonus on all attack rolls
+    with it. These weapons and armor can only be used by the caster and vanish
+    when the spell ends.</p><ul><li><p class="p2"><em>Chaos: </em>Caster is clad
+    in a suit of black <em>+1 leather armor</em> and finds themselves armed with
+    a <em>+1 battle axe</em> that is wreathed in black flame, increasing its
+    damage by +1d6.</p></li><li><p class="p2"><em>Law:</em> Caster is clade in
+    <em>+1 platemail</em> and armed with a <em>+1 mace</em>. The first time the
+    caster inflicts damage with this mace, they are healed 1d6+1
+    damage.</p></li><li><p class="p2"><em>Neutrality</em>: Caster is clad in
+    <em>+1 chainmail</em> and armed with a <em>+2 short sword</em> that allows
+    them to see invisible and incorporeal creatures.</p></li></ul>
+  spellLevel: '2'
+  range: Caster
+  duration: 3 rounds, plus 1 round per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568362778
+  modifiedTime: 1741576567797
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!nbUg0mgTtkj2MiUa'

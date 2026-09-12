@@ -1,0 +1,35 @@
+folder: IgLrhqTEQcQcG1jj
+name: True Sight
+type: spell
+_id: yBeCb2cKOoO10nNR
+img: systems/swords-wizardry/assets/game-icons-net/all-seeing-eye.svg
+system:
+  description: >-
+    <p>While this spell is active, the Illusionist can gaze upon a target for
+    one full round to get the following information about that target,
+    regardless of any illusions, deceptions, or efforts at concealment or
+    misdirection (whether magical or mundane): alignment, class (if any), level
+    (or hit dice), and immediate intentions. While this spell is active, the
+    Illusionist can automatically see the true form of any creature that is
+    concealed or altered by an illusion, has been polymorphed, that is
+    invisible, displaced, or on the astral plane.</p>
+  spellLevel: '6'
+  range: Caster's line of sight
+  duration: 1d6+10 rounds
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432790507
+  modifiedTime: 1775449308337
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!yBeCb2cKOoO10nNR'

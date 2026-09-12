@@ -1,0 +1,51 @@
+folder: 1PQLBgkYua5ewGfF
+name: Ghostly Servant
+type: spell
+_id: 0B5bWsjzMJq8KPqJ
+img: systems/swords-wizardry/assets/game-icons-net/ghost.svg
+system:
+  description: >-
+    <div class="page" title="Page 44">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell calls forth a weak, incoporeal spirit that temporarily serves
+    the Necromancer, obeying their commands. It cannot go more than 240 feet
+    from the caster during its time&nbsp;of service. Though not capable of
+    partici- pating in combat, it can fly at human speed and can manipulate the
+    physical world as if it had a Strength of 10. This includes carrying
+    objects, flipping switches, pulling levers, and other basic meneal tasks. It
+    appears as a pale, glowng cloud. Though it cannot be injured, it can be
+    destroyed via a Dispel Magic spell.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 240 ft.
+  duration: 2 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723659897110
+  modifiedTime: 1723660001708
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!0B5bWsjzMJq8KPqJ'

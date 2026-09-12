@@ -1,0 +1,30 @@
+folder: EZpdDtDMNTCMLaCQ
+name: Pass Without Trace
+type: spell
+_id: DrTZeGDsB9WpBSWA
+img: systems/swords-wizardry/assets/game-icons-net/path-tile.svg
+system:
+  description: >-
+    <p>This spell enables the target to move through snow, sand, mud, and any
+    other type of terrain without leaving any sign of passage. No footprints or
+    scent can be found by trackers.</p>
+  spellLevel: '1'
+  range: Touch
+  duration: 1 turn per caster level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775428897652
+  modifiedTime: 1775446232821
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!DrTZeGDsB9WpBSWA'

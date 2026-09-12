@@ -1,0 +1,53 @@
+folder: QA8alBTGHPhsmNsn
+name: Knight Commander (9th)
+type: feature
+_id: TJ01g8iOrRtxI90R
+img: systems/swords-wizardry/assets/game-icons-net/castle.svg
+system:
+  description: >-
+    <div class="page" title="Page 10">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Upon reaching 9th level, the Chivalric Knight can build a keep or castle
+    and take the title &ldquo;Knight-Commander.&rdquo; Once this keep or castle
+    is completed, the Knight Commander will draw a household staff to manage the
+    estate, and over time vassals and locals will arrive to build a life under
+    the Knight-Commander&rsquo;s rule. In addition to the revenue generated from
+    this community (levied through taxes), and a standard selection of
+    men-at-arms to serve in the castle and as community militia, 1d4+2 Chivalric
+    Knights of 1st level will arrive, swearing fealty to the Knight-Commander as
+    their liege.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377486329
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!TJ01g8iOrRtxI90R'

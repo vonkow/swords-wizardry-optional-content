@@ -1,0 +1,31 @@
+folder: vU45tlBKSM7aeUlh
+name: Blindness
+type: spell
+_id: dvSBtQK38a5nL5FJ
+img: systems/swords-wizardry/assets/game-icons-net/blindfold.svg
+system:
+  description: >-
+    <p>A single target within range of this spell is blinded unless they make a
+    successful saving throw. Once blinded, they remain so until cured via a
+    <em>Dispel Magic</em> or <em>Remove Curse</em> spell undoes the effect.</p>
+  spellLevel: '2'
+  range: 120 ft.
+  duration: Permanent, until dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775429403193
+  modifiedTime: 1789239475581
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!dvSBtQK38a5nL5FJ'

@@ -1,0 +1,29 @@
+folder: Ii5zf09WikSUSt5O
+name: Massmorph
+type: spell
+_id: gTyYztHBopGwURBz
+img: systems/swords-wizardry/assets/game-icons-net/forest.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 62 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '4'
+  range: 240 ft.
+  duration: Until negated by the caster or dispelled
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775431823699
+  modifiedTime: 1775448505888
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!gTyYztHBopGwURBz'

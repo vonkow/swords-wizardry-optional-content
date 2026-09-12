@@ -1,0 +1,29 @@
+folder: GThK2jfqAD9ihHMk
+name: Raise Dead
+type: spell
+_id: Wmgg6ZC2s1FAIYvX
+img: systems/swords-wizardry/assets/game-icons-net/shambling-zombie.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 67 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '5'
+  range: Close/Touch (Referee's discretion)
+  duration: Immediate
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433885095
+  modifiedTime: 1775449987883
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!Wmgg6ZC2s1FAIYvX'

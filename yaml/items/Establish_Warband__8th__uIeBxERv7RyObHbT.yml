@@ -1,0 +1,35 @@
+folder: ZjvpQxSH8Lu4GqMK
+name: Establish Warband (8th)
+type: feature
+_id: uIeBxERv7RyObHbT
+img: systems/swords-wizardry/assets/game-icons-net/rally-the-troops.svg
+system:
+  description: >-
+    <p>Upon reaching 8th level, the Wrath-chanter can build a small outpost,
+    typically a wooden fort or holdfast some distance from civilization. Over
+    the next few months a band of 2d6+3 Berserkers and 1st level Wrath-chanters
+    will arrive in an effort to join the Wrath-chanter in raids and mercenary
+    work across the land. If not provided with ample opportunity to engage in
+    warfare, they may abandon the Wrath-chanter or even turn on them and attempt
+    to take the holdfast for themselves.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377727882
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!uIeBxERv7RyObHbT'

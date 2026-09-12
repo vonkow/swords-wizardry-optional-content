@@ -1,0 +1,49 @@
+folder: KRngi8Sey0NZAGCR
+name: Protection from Evil
+type: spell
+_id: A48IzyodCApvW75Z
+img: systems/swords-wizardry/assets/game-icons-net/aura.svg
+system:
+  description: >-
+    <div class="page" title="Page 33">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Creates a magical field of protection immediately around the caster,
+    blocking out all enchanted monsters such as elementals and demons). Evil
+    monsters suffer a &ndash;1 penalty to hit the caster, and the caster gains
+    +1 on all saving throws against such attacks. If the caster already has any
+    magical bonuses to saving throws or armor class, the bonus from the magic
+    circle has no effect, although the protective circle still functions against
+    enchanted creatures. This spell is identical to the Clerical version, and
+    can be copied into the Demon Hunter&rsquo;s spellbook from a
+    Magic-User&rsquo;s spellbook, a Magic-User&rsquo;s scroll, or a Clerical
+    scroll</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: Caster
+  duration: 2 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723575416296
+  modifiedTime: 1723575461052
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!A48IzyodCApvW75Z'

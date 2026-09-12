@@ -1,0 +1,45 @@
+folder: DlFVXIGOavcPvho0
+name: Light
+type: spell
+_id: 6fHcRj7bPraB672Y
+img: systems/swords-wizardry/assets/game-icons-net/sundial.svg
+system:
+  description: >-
+    <div class="page" title="Page 38">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>This spell functions exactly like the Magic-user spell of the same name
+    found on page 61 of <em>Swords &amp; Wizardry Complete, Revised.</em></p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 60 ft.
+  duration: 1 hour + 10 minutes per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723659170492
+  modifiedTime: 1723659281222
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!6fHcRj7bPraB672Y'

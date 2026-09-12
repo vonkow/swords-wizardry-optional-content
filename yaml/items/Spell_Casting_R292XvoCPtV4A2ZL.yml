@@ -1,0 +1,45 @@
+folder: lgqfrwuM3q3y2HKX
+name: Spell Casting
+type: feature
+_id: R292XvoCPtV4A2ZL
+img: systems/swords-wizardry/assets/game-icons-net/prayer-beads.svg
+system:
+  description: >-
+    <div class="page" title="Page 13">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Dwarven Priests cast &ldquo;divine&rdquo; spells from the Cleric spell
+    list. Each day, the Dwarven Priest selects and prays for a particular set of
+    spells, choosing any spells from the standard Cleric Spell list. Once a
+    spell is cast, it cannot be cast again until the next day unless the Dwarven
+    Priest prepares (prays for) the spell more than once.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377574405
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!R292XvoCPtV4A2ZL'

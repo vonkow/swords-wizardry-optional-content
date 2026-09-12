@@ -1,0 +1,54 @@
+folder: kY7FzuSIT2X9iZBD
+name: Bardic Safehouse (10th)
+type: feature
+_id: dWGc42GUNU7sbFbi
+img: systems/swords-wizardry/assets/game-icons-net/harp.svg
+system:
+  description: >-
+    <div class="page" title="Page 8">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When a Bard reaches 10th level, they have earned the title of Ollamh, and
+    garnered enough goodwill within the society of Bards to draw upon the
+    network of their fellows for secret or important information that has passed
+    through the network via a web of safehouses. Such safehouses typically
+    appear to be a library, tavern, or even museums that a Bard constructs.
+    Other Bards will visit this location, providing the Ollamh with rumors and
+    vital information on a regular basis and the Ollamh gains the service of 2d6
+    Fighters, Thieves, Druids, or Bards (all of whom are 1st level) who will aid
+    them as long as the Ollamh&rsquo;s objectives further the goals of the
+    secret organization as a whole.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377425953
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!dWGc42GUNU7sbFbi'

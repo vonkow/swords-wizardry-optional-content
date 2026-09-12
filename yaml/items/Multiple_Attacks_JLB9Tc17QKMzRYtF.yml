@@ -1,0 +1,42 @@
+folder: koLZmMYFNjA9NWX4
+name: Multiple Attacks
+type: feature
+_id: JLB9Tc17QKMzRYtF
+img: systems/swords-wizardry/assets/game-icons-net/striped-sword.svg
+system:
+  description: >-
+    <div class="page" title="Page 15">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Against creatures with 1 (8-sided) hit die or less, an Elfblade makes one
+    attack per level each round.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377610626
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!JLB9Tc17QKMzRYtF'

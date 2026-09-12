@@ -1,0 +1,19 @@
+name: Demon Hunter Spells
+sorting: a
+folder: Qtfm0QJRwqhmA1yR
+type: Item
+_id: cPIwAoALnHexVpco
+description: ''
+sort: 0
+color: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '12.330'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+_key: '!folders!cPIwAoALnHexVpco'

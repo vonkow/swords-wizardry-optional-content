@@ -1,0 +1,44 @@
+folder: HVB8i8LZsVubbvJN
+name: Turn Undead
+type: feature
+_id: C35A2pNNkFDFnio2
+img: systems/swords-wizardry/assets/game-icons-net/fomorian.svg
+system:
+  description: >-
+    <div class="page" title="Page 11">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>At second level, Demon Hunters gain the ability to turn undead as a first
+    level cleric. The capability improves with level, with the Demon Hunter
+    remaining one level lower in turning ability than a Cleric of the same
+    level.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: 2d10
+  target: '4'
+  targetType: ascending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377548181
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!C35A2pNNkFDFnio2'

@@ -1,0 +1,30 @@
+folder: hh5pRxadGcH7ROzC
+name: Wizard Eye
+type: spell
+_id: atUr6x4MTCstjVp6
+img: systems/swords-wizardry/assets/game-icons-net/brass-eye.svg
+system:
+  description: >-
+    <p>The caster conjures up an invisible, magical “eye” that can move a
+    maximum of 240 feet from its creator. It floats along as directed by the
+    caster at a rate of 120 feet per turn (12 feet per minute).</p>
+  spellLevel: '4'
+  range: 240 feet
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741565640840
+  modifiedTime: 1741567142164
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!atUr6x4MTCstjVp6'

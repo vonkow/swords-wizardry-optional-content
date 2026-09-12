@@ -1,0 +1,33 @@
+folder: mB5eVVkSERKLd3k5
+name: Chaos
+type: spell
+_id: 4je2s0vOw6KjDmnH
+img: systems/swords-wizardry/assets/game-icons-net/abstract-053.svg
+system:
+  description: >-
+    <p>The illusionist names an area 30 ft x 30 ft with range of this spell. All
+    creatures within this area of effect who are of 4 or fewer HD are
+    automatically confused, per the <em>Confusion </em>spell at its full power
+    (see<em> Swords & Wizardry Complete, Revised</em>). Victims receive no
+    saving throw to resist this effect, but the spell ends if the Illusionist’s
+    concentration is broken or they take a significant action.</p>
+  spellLevel: '5'
+  range: 120 ft.
+  duration: Concentration
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432141630
+  modifiedTime: 1775449011293
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!4je2s0vOw6KjDmnH'

@@ -1,0 +1,30 @@
+folder: ZjvpQxSH8Lu4GqMK
+name: Saving Throw Bonus
+type: feature
+_id: S2Aq9pyl07RLKB3h
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <p>Wrath-chanters have a +1 bonus on all saving throws except against spells
+    (including those from wands and staffs).</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377738431
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!S2Aq9pyl07RLKB3h'

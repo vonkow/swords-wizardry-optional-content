@@ -1,0 +1,38 @@
+folder: 1MVPskZ7m6kUM7Up
+name: Frightening Visage
+type: spell
+_id: IoSXd1cNZYcQ4ekq
+img: systems/swords-wizardry/assets/game-icons-net/trap-mask.svg
+system:
+  description: >-
+    <p>The Necromancer’s face twists and contorts into a horrible necrotic
+    visage, terrible to behold for those foolish enough to get close enough to
+    see it in detail. Anyone who dares to make a melee attack against the
+    Necromancer cannot help but gaze upon their face and must make a saving
+    throw. If that saving throw fails, the attack roll is made with a -2
+    penalty. If the melee attack still hits even though the saving throw was
+    failed, its damage is reduced by one-half. A new saving throw must be made
+    each time a melee attack is made against the Necromancer while this spell is
+    active.</p>
+  spellLevel: '2'
+  range: Caster only
+  duration: 2 rounds per level of the Necromancer
+  requiresSave: true
+  saveEffect: half
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433175506
+  modifiedTime: 1789238873542
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!IoSXd1cNZYcQ4ekq'

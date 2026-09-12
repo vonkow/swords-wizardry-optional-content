@@ -1,0 +1,49 @@
+folder: Ii5zf09WikSUSt5O
+name: Emotions
+type: spell
+_id: AkT7GiqDS7NRWtSr
+img: systems/swords-wizardry/assets/game-icons-net/drama-masks.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist can overwhelm the target with
+    one of the following emotions for as long as they maintain their
+    concentration. While the Illusionist is concentrating they can take no other
+    actions beyond moving at a cautious speed. The target of this spell may make
+    a saving throw each time this spell would compel them to take an action they
+    do not wish to, but it does not end the spell’s effect.</p><p
+    class="p1"><em>Admiration: </em>The target regards the Illusionist as a
+    friend, as if they were the victim of a <em>Charm Person</em> spell.</p><p
+    class="p1"><em>Apathy:</em> The target sees no purpose or point to whatever
+    action they were performing. Except to defend themselves or avoid injury,
+    they will just stand there and do nothing - though they are completely aware
+    of their environment. They will take no aggressive actions or cast
+    aggressive spells.</p><p class="p1"><em>Calm:</em> The victim calms from an
+    overwhelming emotional state, including those that are magically induced. If
+    under the effects of <em>Charm Person, Fear,</em> or other emotionally
+    influencing spells, they may make a saving throw to break free of those
+    effects when first rendered apathetic.</p><p class="p1"><em>Frenzy:</em> The
+    target is driven into a maddening blood lust. While under this effect they
+    will make every effort to make a melee attack against the nearest target -
+    whether friend or foe. They receive +2 to their attack roll and damage roll
+    while in a frenzied state.</p>
+  spellLevel: '4'
+  range: 180 ft.
+  duration: Concentration
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775431697538
+  modifiedTime: 1789239347095
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!AkT7GiqDS7NRWtSr'

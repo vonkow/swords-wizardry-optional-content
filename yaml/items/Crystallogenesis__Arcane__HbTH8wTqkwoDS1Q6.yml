@@ -1,0 +1,33 @@
+folder: GfvOhThxts0rcMMD
+name: Crystallogenesis (Arcane)
+type: spell
+_id: HbTH8wTqkwoDS1Q6
+img: systems/swords-wizardry/assets/game-icons-net/crystal-growth.svg
+system:
+  description: >-
+    <p>In a circle designated by the caster, no more than 40ft in radius,
+    crystals grow from the ground, entirely surrounding and immobilizing any
+    creature within the circle. People inside can breathe and can see through
+    the crystalline forest, but any movement causes 1d4 points of damage from
+    the sharp edges. The crystalline growth has a 25% chance to reflect spells
+    back upon anyone attempting to cast through it.</p>
+  spellLevel: '5'
+  range: 120 ft.
+  duration: 1 turn
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429193235
+  modifiedTime: 1775446394210
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!HbTH8wTqkwoDS1Q6'

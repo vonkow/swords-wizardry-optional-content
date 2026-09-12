@@ -1,0 +1,39 @@
+folder: RoEPaRVoUs0aoKRb
+name: Purifying Blast
+type: spell
+_id: kdLjiZu75O08nYwv
+img: systems/swords-wizardry/assets/game-icons-net/unstable-projectile.svg
+system:
+  description: >-
+    <p>A bead-like missile shoots from the caster’s finger to explode at the
+    targeted location in a blast of bright light. The burst radius is 20 feet,
+    and damage is 1d6 per level of the caster. The blast fills 33,000 cubic feet
+    (33 10-foot x 10-foot x 10-foot cubical areas) but shapes itself to the
+    available volume. A successful saving throw means that the target takes only
+    half damage if the target is of Chaotic alignment. Neutral and
+    Lawfully-aligned creatures who succeed at the saving throw take no damage,
+    but take full damage if the saving throw fails.</p>
+  spellLevel: '3'
+  range: 240 feet
+  duration: Instantaneous
+  formula: (@lvl)d6
+  saveEffect: half
+  requiresSave: true
+  effectType: damage
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741565568527
+  modifiedTime: 1789239715526
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!kdLjiZu75O08nYwv'

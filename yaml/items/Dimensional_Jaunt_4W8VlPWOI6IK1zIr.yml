@@ -1,0 +1,41 @@
+folder: aZ5zyc73GahTcYeT
+name: Dimensional Jaunt
+type: spell
+_id: 4W8VlPWOI6IK1zIr
+img: systems/swords-wizardry/assets/game-icons-net/transportation-rings.svg
+system:
+  description: >-
+    <p>The Warlock is able to cross short distances, no more than the range of
+    this spell, by stepping into places that have a deep connection to their
+    alignment and its presence across all reality. If able to step into an area
+    detailed below that can fit their whole body, they make a short range
+    teleportation to another area as detailed below as long as it is within
+    range of this spell. The Warlock cannot bring others with
+    them.</p><ul><li><p class="p2"><em>Chaos: </em>A Chaotic Warlock must be
+    able to step into and exit from a patch of darkness large enough to cover
+    their whole body and completely obscure them.</p></li><li><p
+    class="p2"><em>Law: </em>A Lawful Warlock must be able to step into and exit
+    from an unobscured beam or patch of natural sunlight that covers their whole
+    body.</p></li><li><p class="p2"><em>Neutral: </em>No one can be looking at a
+    Neutral Warlock when they teleport, nor can they be looking at the spot the
+    Neutral Warlock wishes to appear.</p></li></ul>
+  spellLevel: '3'
+  range: 120 ft. plus 10 ft. per level
+  duration: 1 round
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741568467000
+  modifiedTime: 1741575821225
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!4W8VlPWOI6IK1zIr'

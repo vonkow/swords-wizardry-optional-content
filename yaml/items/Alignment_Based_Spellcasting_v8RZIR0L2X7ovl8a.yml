@@ -1,0 +1,37 @@
+folder: xqBkrcWr1JwvJq3N
+name: Alignment-Based Spellcasting
+type: feature
+_id: v8RZIR0L2X7ovl8a
+img: systems/swords-wizardry/assets/game-icons-net/life-in-the-balance.svg
+system:
+  description: >-
+    <p>Unlike other spellcasters, Warlocks do not prepare or memorize spells. If
+    a Warlock has the available spells per day as determined by their level and
+    shown on the Warlock Advancement Table, then they can select and cast spells
+    from the Warlock Spell List. Some Warlock spells have unique effects based
+    on the Warlock&rsquo;s alignment. When a Warlock casts a spell with such a
+    distinction, this alignment-specific effect is what happens. A Lawful
+    Warlock cannot cast a spell to achieve a noted effect tied to Chaos or
+    Neutrality, for example. Warlocks do not keep spellbooks, nor do they pray
+    for spells.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377694217
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!v8RZIR0L2X7ovl8a'

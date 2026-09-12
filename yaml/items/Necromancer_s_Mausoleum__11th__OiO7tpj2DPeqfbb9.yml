@@ -1,0 +1,54 @@
+folder: 4sUeWC6lOEUTLROD
+name: Necromancer's Mausoleum (11th)
+type: feature
+_id: OiO7tpj2DPeqfbb9
+img: systems/swords-wizardry/assets/game-icons-net/crypt-entrance.svg
+system:
+  description: >-
+    <div class="page" title="Page 20">
+
+    <div class="section">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>When a Necromancer reaches 11th level they earn the title of Necromancer,
+    and can build a personal lair that is typically an abandoned crypt or
+    mausoleum&nbsp;located in or near a graveyard or cemetery - though a few
+    Necromancers build isolated towers far from civilized areas who would
+    certainly drive them out with torch and pitchfork. Mindless undead that rise
+    to unlife in this area will be drawn to the Necromancer and serve them as if
+    the Necromancer had crafted or raised these abominations themselves.
+    Intelligent undead in the area may forge an alliance with the Necromancer,
+    but are equally likely to view the Necromancer as a threat to their own
+    power to be betrayed or destroyed at the first opportunity.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377667325
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!OiO7tpj2DPeqfbb9'

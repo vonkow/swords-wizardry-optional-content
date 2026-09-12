@@ -1,0 +1,42 @@
+folder: vU45tlBKSM7aeUlh
+name: Misdetection
+type: spell
+_id: 49VCQ7ZS8BHg1HO5
+img: systems/swords-wizardry/assets/game-icons-net/detour.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Illusionist (or one person they touch at the
+    time of casting the spell) are likely to go unnoticed if they come under the
+    effects of <em>Clairaudience, Clairvoyance, Detect Magic, Detect Illusion,
+    Detect Invisibility, </em>and similar spells (and magical items that mimic
+    these effects) that would reveal them. Only powerful spellcasters who are
+    higher level than the Illusionist who cast <em>Misdetection </em>have a
+    chance of overcoming its protection.</p><p class="p1">The chance of
+    successfully seeing through the <em>Misdetection</em> is a percentage based
+    on the ratio of the level of the caster who cast the detection spell over
+    the level of Illusionist who cast <em>Misdetection</em>. Thus, a 12th-level
+    Magic-User attempting to use<em> Detect Invisibility</em> to detect a
+    6th-level Illusionist currently under the effects of an Improved
+    Invisibility has a 50% chance of success (6/12 = 0.50, or 50%).</p><p
+    class="p1"><em>Misdetection</em> offers no protection from <em>True
+    Sight.</em></p>
+  spellLevel: '2'
+  range: Touch
+  duration: One turn per level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429736064
+  modifiedTime: 1775446068301
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!49VCQ7ZS8BHg1HO5'

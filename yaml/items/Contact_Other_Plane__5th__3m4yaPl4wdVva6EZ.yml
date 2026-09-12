@@ -1,0 +1,31 @@
+folder: xqBkrcWr1JwvJq3N
+name: Contact Other Plane (5th)
+type: feature
+_id: 3m4yaPl4wdVva6EZ
+img: systems/swords-wizardry/assets/game-icons-net/magic-portal.svg
+system:
+  description: >-
+    <p>Beginning at 5th level, the Warlock can cast <em>Contact Other Plane</em>
+    once per day. They reduce their chance of being driven insane when casting
+    this spell by 3% per level.</p>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377699726
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!3m4yaPl4wdVva6EZ'

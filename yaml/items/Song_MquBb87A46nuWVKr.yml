@@ -1,0 +1,208 @@
+folder: I1IR7yZSPaBi9PEc
+name: Song
+type: feature
+_id: MquBb87A46nuWVKr
+img: modules/swords-wizardry-content/images/game-icons-net/musical-notes.svg
+system:
+  description: >-
+    <p>Through virtuoso musical performance, a Troubadour can attempt to
+    mesmerize any number of targets capable of clearly hearing the musical
+    performance, typically no more than 60 feet away. While&nbsp;under the
+    effects of this charm the victim does nothing but listen to the Troubadour
+    perform, though loud noises or attacks against the victim automatically end
+    this effect. Unlike a Bard&rsquo;s Oratory ability, the victim does not need
+    to understand the language in which the Troubadour is performing - but the
+    Troubadour must have a musical instrument when using this ability. While a
+    victim is under the effects of a charm the Troubadour can attempt to implant
+    a Suggestion (per the spell) in their mind, though the victim can make a
+    successful saving throw vs. spells&nbsp;to resist this attempt and
+    automatically break free of the distraction. Strong-willed individuals and
+    truly strange creatures are less susceptible to the Troubadour&rsquo;s
+    charm, with the Troubadour&rsquo;s chance of success being reduced based on
+    the table below.</p>
+
+    <h3>Troubadour Song</h3>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Creature Type</strong></td>
+
+    <td><strong>Song Modifier</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>Humanoids and most monsters</td>
+
+    <td>-5% per hit die or level over 4. (i.e -5% at 5th level/5 HD, -10% at 6th
+    level/6 HD)</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Monks</td>
+
+    <td>-10% per hit die of the monk</td>
+
+    </tr>
+
+    <tr>
+
+    <td>Undead</td>
+
+    <td>-10% per hit die of the undead creature</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+
+    <h3>Song Advancement Table</h3>
+
+    <table border="1"><colgroup><col><col></colgroup>
+
+    <tbody>
+
+    <tr>
+
+    <td><strong>Level</strong></td>
+
+    <td><strong>Song</strong></td>
+
+    </tr>
+
+    <tr>
+
+    <td>1</td>
+
+    <td>10%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>2</td>
+
+    <td>20%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>3</td>
+
+    <td>30%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>4</td>
+
+    <td>40%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>5</td>
+
+    <td>50%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>6</td>
+
+    <td>60%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>7</td>
+
+    <td>70%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>8</td>
+
+    <td>80%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>9</td>
+
+    <td>90%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>10</td>
+
+    <td>100%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>11</td>
+
+    <td>110%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>12</td>
+
+    <td>120%</td>
+
+    </tr>
+
+    <tr>
+
+    <td>13+</td>
+
+    <td>+10% per level</td>
+
+    </tr>
+
+    </tbody>
+
+    </table>
+  formula: d100
+  target: '10'
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1723314478421
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!MquBb87A46nuWVKr'

@@ -1,0 +1,29 @@
+folder: vU45tlBKSM7aeUlh
+name: Obscuring Mist
+type: spell
+_id: KIyaiZNoFkulRKLn
+img: systems/swords-wizardry/assets/game-icons-net/fog.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 64 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '2'
+  range: Moves 6 feet per minute
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429794325
+  modifiedTime: 1775446078069
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!KIyaiZNoFkulRKLn'

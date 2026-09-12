@@ -1,0 +1,37 @@
+folder: GThK2jfqAD9ihHMk
+name: Vampiric Touch
+type: spell
+_id: GYHqgozeJybzivtr
+img: systems/swords-wizardry/assets/game-icons-net/bloody-stash.svg
+system:
+  description: >-
+    <p>The caster can touch any living target and inflict 1d10 damage with a
+    successful melee attack. This attack roll is made with a +2 bonus. The
+    caster is healed a number of hit points equal to the damage inflicted by
+    this touch, but cannot exceed their maximum hit points. In addition, any
+    living being who suffers damage from the vampiric touch must make a saving
+    throw or lose a level. This lost level can be restored with a
+    <em>Restoration </em>spell.</p>
+  spellLevel: '5'
+  range: Touch
+  duration: 1 round, plus one round per level of the caster
+  formula: 1d10
+  requiresSave: true
+  effectType: damage
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433958585
+  modifiedTime: 1789238622913
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!GYHqgozeJybzivtr'

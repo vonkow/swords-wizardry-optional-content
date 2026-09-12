@@ -1,0 +1,32 @@
+folder: VoaAT4iglPuwP46U
+name: ESP
+type: spell
+_id: PTfu7Gx3LWRRmHVp
+img: systems/swords-wizardry/assets/game-icons-net/psychic-waves.svg
+system:
+  description: >-
+    <p>The caster can detect the thoughts of other beings at a distance of 60
+    feet. The spell cannot penetrate more than two feet of stone, and is blocked
+    by even a thin sheet of lead. This spell is identical to the Magic-User
+    spell of the same name, and can by copied from the spellbook of a Magic-User
+    (or from a scroll).</p>
+  spellLevel: '2'
+  range: 60 feet
+  duration: 2 hours
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741504096046
+  modifiedTime: 1741565430555
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!PTfu7Gx3LWRRmHVp'

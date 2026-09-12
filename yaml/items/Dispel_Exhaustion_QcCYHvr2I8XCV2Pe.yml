@@ -1,0 +1,35 @@
+folder: YjA1CAQf0A5FQx72
+name: Dispel Exhaustion
+type: spell
+_id: QcCYHvr2I8XCV2Pe
+img: systems/swords-wizardry/assets/game-icons-net/energise.svg
+system:
+  description: >-
+    <p>For the duration of this spell the recipient is filled with a false sense
+    of vigor and energy. While under its effects the target suffers no penalties
+    from exhaustion, sleep deprivation, or physical weariness. This includes the
+    ability for badly wounded individuals or even those who have been recently
+    raised from the dead to move normally, though doing so in such conditions is
+    painful and inflicts 1d6 damage when they first do so. After this spell
+    wears off the target must rest for twice as long as they were under its
+    effects.</p>
+  spellLevel: '3'
+  range: Touch
+  duration: Three hours, plus one hour per caster level
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775429943321
+  modifiedTime: 1775446421642
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!QcCYHvr2I8XCV2Pe'

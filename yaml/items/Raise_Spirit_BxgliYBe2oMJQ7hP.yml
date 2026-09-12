@@ -1,0 +1,32 @@
+folder: GThK2jfqAD9ihHMk
+name: Raise Spirit
+type: spell
+_id: BxgliYBe2oMJQ7hP
+img: systems/swords-wizardry/assets/game-icons-net/ghost.svg
+system:
+  description: >-
+    <p>This spell turns one corpse per level of the caster over 8th to dust (1
+    at 9th, 2 at 10th, etc.), preventing anything short of a <em>Limited Wish
+    </em>or <em>Wish </em>from returning the corpse to life<em>.</em> The
+    corpse’s soul is then transformed into a wraith (75% chance) or spectre (25%
+    chance) that is under the command of the caster.</p>
+  spellLevel: '5'
+  range: Close/Touch (Referee's discretion)
+  duration: Permanent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433915970
+  modifiedTime: 1775450246307
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!BxgliYBe2oMJQ7hP'

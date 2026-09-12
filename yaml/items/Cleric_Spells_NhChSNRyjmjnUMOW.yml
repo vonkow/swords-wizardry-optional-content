@@ -1,0 +1,20 @@
+type: Item
+folder: Qtfm0QJRwqhmA1yR
+name: Cleric Spells
+color: null
+sorting: a
+_id: NhChSNRyjmjnUMOW
+description: ''
+sort: 0
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775428715837
+  modifiedTime: 1775428715837
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!folders!NhChSNRyjmjnUMOW'

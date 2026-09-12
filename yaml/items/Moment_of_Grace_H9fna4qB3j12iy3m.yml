@@ -1,0 +1,42 @@
+folder: aZ5zyc73GahTcYeT
+name: Moment of Grace
+type: spell
+_id: H9fna4qB3j12iy3m
+img: systems/swords-wizardry/assets/game-icons-net/beams-aura.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock bestows a blessing on the target
+    based on the Warlock’s alignment. If the target of this spell is of a
+    different alignment as the Warlock, then the target <em>must</em> succeed in
+    a saving throw to receive this benefit.</p><ul><li><p
+    class="p2"><em>Chaos:</em> The first time the target of this spell suffers
+    damage in melee combat, their eyes flare with the fires of hell, instilling
+    fear in the one who dealt the blow. That attacker must make a saving throw
+    or flee from the target and avoid attacking them for a number of rounds
+    equal to the Warlock’s level.</p></li><li><p class="p2"><em>Law:</em> If the
+    target of this spell is reduced to ½ or less of their maximum hit points,
+    they are immediately healed an amount of damage equal to twice the Warlock’s
+    level.</p></li><li><p class="p2"><em>Neutrality:</em> The target of this
+    spell receives +4 on their next saving throw after being targeted by this
+    spell.</p></li></ul>
+  spellLevel: '3'
+  range: Touch
+  duration: 2 hours
+  requiresSave: false
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741575227216
+  modifiedTime: 1789237805779
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!H9fna4qB3j12iy3m'

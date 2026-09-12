@@ -1,0 +1,29 @@
+folder: 1MVPskZ7m6kUM7Up
+name: Darkness, 15 ft.
+type: spell
+_id: lvuMu7yvzMw6VUoR
+img: systems/swords-wizardry/assets/game-icons-net/sight-disabled.svg
+system:
+  description: >-
+    <p>This spell functions exactly like the spell of the same name found on
+    page 58 of <em>Swords & Wizardry Complete, Revised.</em></p>
+  spellLevel: '2'
+  range: 120 ft.
+  duration: 1 hour
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775433015133
+  modifiedTime: 1775449601668
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!lvuMu7yvzMw6VUoR'

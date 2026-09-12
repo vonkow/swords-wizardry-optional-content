@@ -1,0 +1,41 @@
+folder: zu57qy8kotpKFTtO
+name: Dimensional Onslaught
+type: spell
+_id: PQuAhIGvzrGM8hli
+img: systems/swords-wizardry/assets/game-icons-net/fission.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock tears a net of small holes in the
+    barrier between dimensions, raining planar energy down on anyone in a 30 ft
+    radius. The exact effects of this energy are determined by the Warlock’s
+    alignment.</p><ul><li><p><em>Chaos: </em>Negative energy reigns down from
+    the planes of Chaos. All living targets caught in the radius of this spell
+    suffer 5d6 damage. Undead and extraplanar creatures of Chaotic alignment
+    suffer no damage.</p></li><li><p class="p1"><em>Law: </em>Blazing, holy
+    light falls from the sky, sent from the planes of Law. All living targets of
+    Chaotic or Neutral alignment suffer 5d6 damage, though Neutral characters
+    may make a saving throw to suffer half damage</p></li><li><p
+    class="p1"><em>Neutral: </em>Strange astral energy blazes down from the
+    skies, inflicting 5d6 on everyone within this spell’s radius.</p></li></ul>
+  spellLevel: '4'
+  range: 240 ft.
+  duration: Instantaneous
+  formula: 5d6
+  effectType: damage
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741568571159
+  modifiedTime: 1789237703208
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!PQuAhIGvzrGM8hli'

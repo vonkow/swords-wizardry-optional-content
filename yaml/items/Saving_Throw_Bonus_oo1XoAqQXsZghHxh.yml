@@ -1,0 +1,46 @@
+folder: lgqfrwuM3q3y2HKX
+name: Saving Throw Bonus
+type: feature
+_id: oo1XoAqQXsZghHxh
+img: systems/swords-wizardry/assets/game-icons-net/dice-twenty-faces-twenty.svg
+system:
+  description: >-
+    <div class="page" title="Page 13">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>Dwarven Priests receive a +2 bonus on all saving throws to resist mind
+    influencing magical effects, such as <em>Charm Person</em> and <em>Fear</em>
+    spells. This includes any magic items or spell-like abilities that function
+    similarly to these spells. The saving throw bonus is in addition to the +4
+    dwarven saving throw bonus against magic, so a Dwarven Priest has a +6 bonus
+    against a Charm Person spell.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377569305
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!oo1XoAqQXsZghHxh'

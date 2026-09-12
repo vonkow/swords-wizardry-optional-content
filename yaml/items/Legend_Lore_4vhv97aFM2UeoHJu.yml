@@ -1,0 +1,33 @@
+folder: iPeFXB4L4ElceSO6
+name: Legend Lore
+type: spell
+_id: 4vhv97aFM2UeoHJu
+img: systems/swords-wizardry/assets/game-icons-net/archive-research.svg
+system:
+  description: >-
+    <p>Over the course of long and arduous magical efforts (1d100 days), the
+    caster gains knowledge about some legendary person, place, or thing. The
+    spell’s final result may be no more than a cryptic phrase or riddle, or it
+    might be quite specific. This spell is identical to the sixth-level
+    Magic-User spell of the same name, and can be copied back and forth by Demon
+    Hunters and Magic-Users from scrolls and spellbooks.</p>
+  spellLevel: '5'
+  range: Caster
+  duration: See below
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741565663520
+  modifiedTime: 1741566805351
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!4vhv97aFM2UeoHJu'

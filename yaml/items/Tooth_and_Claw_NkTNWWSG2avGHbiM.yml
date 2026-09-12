@@ -1,0 +1,35 @@
+folder: VoaAT4iglPuwP46U
+name: Tooth and Claw
+type: spell
+_id: NkTNWWSG2avGHbiM
+img: systems/swords-wizardry/assets/game-icons-net/grasping-claws.svg
+system:
+  description: >-
+    <p>The Demon Hunter’s touch makes normal animals (including giant versions)
+    able to hit creatures that can normally only be hit with +1 magical weapons.
+    The spell does not grant an actual bonus to hit, nor is it powerful enough
+    to allow the animal to hit a creature that requires a +2 magic weapon or
+    better to hit. The spell can affect 3 hit dice of creatures, plus an
+    additional hit die for every 2 levels the caster is above third level
+    (additional hit die at level 5, 7, 9, etc.). Any creature with less than a
+    full hit die is treated as having one hit die.</p>
+  spellLevel: '2'
+  range: Touch
+  duration: 1 hour (6 turns)
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 3.0.1
+  createdTime: 1741504188227
+  modifiedTime: 1741564805745
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!NkTNWWSG2avGHbiM'

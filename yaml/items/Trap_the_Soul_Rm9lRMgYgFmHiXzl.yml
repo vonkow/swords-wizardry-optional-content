@@ -1,0 +1,54 @@
+folder: PG8Oy96UyWUXajPM
+name: Trap the Soul
+type: spell
+_id: Rm9lRMgYgFmHiXzl
+img: systems/swords-wizardry/assets/game-icons-net/wrapped-heart.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Warlock selects a single target within its
+    range. That target must make a saving throw. Failure means the target’s soul
+    is ripped from their body and trapped in a plane that is of the same
+    alignment as the Warlock. Lawful Warlocks trap the target’s sol in a a
+    heavenly plane, Chaotic Warlocks trap the target’s soul in a hellish plane,
+    and Neutral Warlock traps the target’s soul in one of the infinite planes
+    tied to Neutrality.</p><p class="p1">Once the target’s soul has been trapped
+    they cannot be restored to life if they are slain, other than by a
+    <em>Wish</em> spell. <em>Animate Dead, Animate Dead (Necromantic), Magic
+    Jar, Raise Dead, Reincarnation, Resurrection, </em>all automatically fail.
+    The target also finds their emotions muted and is less easily influenced by
+    mind-influencing spells like <em>Charm Person </em>and <em>Fear</em>,
+    receiving a +2 bonus on all saving throws to resist these and similar
+    effects. Unfortunately, a character who is killed while under the effects of
+    a <em>Trap the Soul</em> spell is permanently and forever
+    slain.</p><ul><li><p class="p2"><em>Chaos: </em>With their soul trapped on a
+    plane of Chaos, targets who have had this spell cast on them by a Chaotic
+    Warlock find themselves able to gaze into and touch the void beyond death.
+    They can see, touch, and interact with incorporeal creatures as if those
+    creatures were physically present.</p></li><li><p class="p2"><em>Law:</em>
+    With their soul at peace and fortified on the plane of Law, targets who have
+    had this spell cast on them by a Lawful Wizard are immune to the
+    level-draining effects of undead and other creatures.</p></li><li><p
+    class="p2"><em>Neutrality</em>: Neutral Warlocks can cast <em>Trap the
+    Soul</em> on anyone who has already been the victim of this spell in order
+    to return their soul back to their body.</p></li></ul>
+  spellLevel: '5'
+  range: 90 ft. radius
+  duration: Permanent
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1741568676059
+  modifiedTime: 1789237609762
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  exportSource: null
+_key: '!items!Rm9lRMgYgFmHiXzl'

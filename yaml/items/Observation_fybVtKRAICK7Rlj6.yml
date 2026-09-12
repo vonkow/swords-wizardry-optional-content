@@ -1,0 +1,45 @@
+folder: HVB8i8LZsVubbvJN
+name: Observation
+type: feature
+_id: fybVtKRAICK7Rlj6
+img: systems/swords-wizardry/assets/game-icons-net/eyeball.svg
+system:
+  description: >-
+    <div class="page" title="Page 11">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>At third level, a Demon Hunter gains the ability to recognize when a
+    person is afflicted with lycanthropy. At fifth level, a Demon Hunter gains
+    the ability to recognize a demon, even if the demon is polymorphed into a
+    different form. The Demon Hunter must be able to look the person in the eye
+    in order for this ability to work.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  formula: ''
+  target: ''
+  targetType: descending
+effects: []
+sort: 0
+ownership:
+  default: 0
+  saJBeYreurxVYSiH: 3
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723314478421
+  modifiedTime: 1741377527456
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!fybVtKRAICK7Rlj6'

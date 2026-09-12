@@ -1,0 +1,37 @@
+folder: r0plGLSWtlRbxB6H
+name: Paralyze Undead
+type: spell
+_id: EQhR7YVszOUmnHxj
+img: systems/swords-wizardry/assets/game-icons-net/surprised-skull.svg
+system:
+  description: >-
+    <p>When this spell is cast, the Necromancer can paralyze a number of hit
+    dice (or levels) worth of undead creatures equal to twice the caster's
+    level. Those who fail their saving throw are paralyzed and unable to move
+    until the Necromancer releases them from the effect or until the victim has
+    either <em>Dispel Magic </em>or <em>Remove Curse</em> cast upon them.
+    Intelligent or particularly powerful undead creatures, such as vampires or
+    liches have a +4 bonus to this saving throw. This spell supersedes an undead
+    creature’s typical immunity to paralysis and hold effects and can only be
+    cast on undead creatures.</p>
+  spellLevel: '3'
+  range: 180 ft.
+  duration: Permanent, until dispelled
+  requiresSave: true
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.367'
+  systemId: swords-wizardry
+  systemVersion: 4.1.0
+  createdTime: 1775433385336
+  modifiedTime: 1789238823364
+  lastModifiedBy: vmxWfSELXzEPjuRW
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!EQhR7YVszOUmnHxj'

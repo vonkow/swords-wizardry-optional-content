@@ -1,0 +1,48 @@
+folder: KRngi8Sey0NZAGCR
+name: Detect Chaos
+type: spell
+_id: 6Po6Wuz0ElLdCIPY
+img: systems/swords-wizardry/assets/game-icons-net/dead-eye.svg
+system:
+  description: >-
+    <div class="page" title="Page 33">
+
+    <div class="layoutArea">
+
+    <div class="column">
+
+    <p>The caster detects any malign enchantments and Chaos-alignment auras
+    within the spell&rsquo;s range. Poison is not inherently evil and cannot be
+    detected by means of this spell. The spell is similar to the second level
+    Magic-User spell Detect Evil, but it is less sensitive, picking up only
+    magical effects and actual align- ments rather than mere intentions. The
+    Magic-User&rsquo;s second level <em>detect evil</em> spell may be copied
+    into a Demon Hunter&rsquo;s spellbook as <em>detect chaos</em>, but there is
+    a 25% chance that the copying attempt will fail, and the notes will not
+    serve to memorize the spell.</p>
+
+    </div>
+
+    </div>
+
+    </div>
+  spellLevel: '1'
+  range: 60 feet
+  duration: 20 minutes
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.342'
+  systemId: swords-wizardry
+  systemVersion: 2.5.0
+  createdTime: 1723575137182
+  modifiedTime: 1723575197748
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  exportSource: null
+_key: '!items!6Po6Wuz0ElLdCIPY'

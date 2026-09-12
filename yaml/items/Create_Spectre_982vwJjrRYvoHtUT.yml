@@ -1,0 +1,34 @@
+folder: mB5eVVkSERKLd3k5
+name: Create Spectre
+type: spell
+_id: 982vwJjrRYvoHtUT
+img: systems/swords-wizardry/assets/game-icons-net/spectre.svg
+system:
+  description: >-
+    <p>This spell can only be cast on the corpse of someone who has been slain
+    within a number of turns equal to 24 + (6 x Illusionist’s Level). The target
+    rises as a Spectre (see <em>Swords & Wizardry Complete</em>) with a number
+    of hit dice equal half the level it had in life (rounded down) and can only
+    be cast on characters who are second level or higher. The newly risen
+    Spectre retains the alignment it had in life, its memories, and is not
+    beholden to the caster. It otherwise functions as a standard Spectre.</p>
+  spellLevel: '5'
+  range: Touch
+  duration: Permanent
+effects: []
+sort: 0
+ownership:
+  default: 0
+  uY5ZaNbCwA9WwEXo: 3
+flags: {}
+_stats:
+  coreVersion: '14.359'
+  systemId: swords-wizardry
+  systemVersion: 4.0.0
+  createdTime: 1775432174113
+  modifiedTime: 1775449028744
+  lastModifiedBy: uY5ZaNbCwA9WwEXo
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!items!982vwJjrRYvoHtUT'
